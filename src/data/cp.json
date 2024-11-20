@@ -1,0 +1,5766 @@
+[
+ {
+  "code": "KDY306",
+  "prg": "JO21",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KDY178",
+  "prg": "JO21"
+ },
+ {
+  "code": "PMN128",
+  "prg": "JO21"
+ },
+ {
+  "code": "PMN195",
+  "prg": "JO21"
+ },
+ {
+  "code": "TGI220",
+  "prg": "JO21",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "TGI230",
+  "prg": "JO21"
+ },
+ {
+  "code": "VGA152",
+  "prg": "JO21"
+ },
+ {
+  "code": "VGA117",
+  "prg": "JO21",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KNR206",
+  "prg": "JO21",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "CLT179",
+  "prg": "JO21",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
+ },
+ {
+  "code": "CLT120",
+  "prg": "JO21",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "PKD104",
+  "prg": "JO21"
+ },
+ {
+  "code": "PKD305",
+  "prg": "JO21"
+ },
+ {
+  "code": "KSD150",
+  "prg": "JO21"
+ },
+ {
+  "code": "KSD150",
+  "prg": "JO21"
+ },
+ {
+  "code": "KDY132",
+  "prg": "JO22",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KDY119",
+  "prg": "JO22",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "PMN109",
+  "prg": "JO22"
+ },
+ {
+  "code": "PMN134",
+  "prg": "JO22",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "TGI218",
+  "prg": "JO22"
+ },
+ {
+  "code": "TGI111",
+  "prg": "JO22",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "VGA320",
+  "prg": "JO22"
+ },
+ {
+  "code": "VGA169",
+  "prg": "JO22"
+ },
+ {
+  "code": "KNR106",
+  "prg": "JO22"
+ },
+ {
+  "code": "KNR126",
+  "prg": "JO22",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "CLT176",
+  "prg": "JO22",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
+ },
+ {
+  "code": "CLT126",
+  "prg": "JO22"
+ },
+ {
+  "code": "PKD215",
+  "prg": "JO22",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "PKD197",
+  "prg": "JO22",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KSD125",
+  "prg": "JO22",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KSD230",
+  "prg": "JO22",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KSD125",
+  "prg": "JO22"
+ },
+ {
+  "code": "KSD230",
+  "prg": "JO22"
+ },
+ {
+  "code": "KDY198",
+  "prg": "JO23"
+ },
+ {
+  "code": "KDY138",
+  "prg": "JO23",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
+ },
+ {
+  "code": "PMN291",
+  "prg": "JO23"
+ },
+ {
+  "code": "PMN240",
+  "prg": "JO23"
+ },
+ {
+  "code": "TGI206",
+  "prg": "JO23"
+ },
+ {
+  "code": "TGI291",
+  "prg": "JO23"
+ },
+ {
+  "code": "VGA184",
+  "prg": "JO23"
+ },
+ {
+  "code": "VGA314",
+  "prg": "JO23",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "KNR179",
+  "prg": "JO23"
+ },
+ {
+  "code": "KNR263",
+  "prg": "JO23"
+ },
+ {
+  "code": "CLT124",
+  "prg": "JO23",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "CLT244",
+  "prg": "JO23"
+ },
+ {
+  "code": "PKD260",
+  "prg": "JO23"
+ },
+ {
+  "code": "PKD329",
+  "prg": "JO23"
+ },
+ {
+  "code": "KSD222",
+  "prg": "JO23"
+ },
+ {
+  "code": "KSD196",
+  "prg": "JO23"
+ },
+ {
+  "code": "KSD196",
+  "prg": "JO23"
+ },
+ {
+  "code": "KSD222",
+  "prg": "JO23"
+ },
+ {
+  "code": "KDY128",
+  "prg": "JO24",
+  "grade": "B",
+  "position": 2,
+  "pts": 6
+ },
+ {
+  "code": "PMN126",
+  "prg": "JO24"
+ },
+ {
+  "code": "PMN154",
+  "prg": "JO24"
+ },
+ {
+  "code": "PMN114",
+  "prg": "JO24"
+ },
+ {
+  "code": "TGI211",
+  "prg": "JO24",
+  "grade": "B",
+  "position": 3,
+  "pts": 4
+ },
+ {
+  "code": "TGI309",
+  "prg": "JO24",
+  "grade": "B",
+  "position": 3,
+  "pts": 4
+ },
+ {
+  "code": "VGA119",
+  "prg": "JO24",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
+ },
+ {
+  "code": "KNR302",
+  "prg": "JO24"
+ },
+ {
+  "code": "KNR329",
+  "prg": "JO24"
+ },
+ {
+  "code": "CLT186",
+  "prg": "JO24"
+ },
+ {
+  "code": "CLT136",
+  "prg": "JO24"
+ },
+ {
+  "code": "PKD215",
+  "prg": "JO24"
+ },
+ {
+  "code": "KDY137",
+  "prg": "JO25",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "KDY170",
+  "prg": "JO25"
+ },
+ {
+  "code": "PMN130",
+  "prg": "JO25"
+ },
+ {
+  "code": "PMN247",
+  "prg": "JO25"
+ },
+ {
+  "code": "TGI211",
+  "prg": "JO25",
+  "grade": "B",
+  "position": 3,
+  "pts": 4
+ },
+ {
+  "code": "TGI427",
+  "prg": "JO25"
+ },
+ {
+  "code": "VGA120",
+  "prg": "JO25",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
+ },
+ {
+  "code": "VGA184",
+  "prg": "JO25"
+ },
+ {
+  "code": "KNR231",
+  "prg": "JO25"
+ },
+ {
+  "code": "KNR255",
+  "prg": "JO25"
+ },
+ {
+  "code": "CLT136",
+  "prg": "JO25"
+ },
+ {
+  "code": "CLT182",
+  "prg": "JO25"
+ },
+ {
+  "code": "KSD222",
+  "prg": "JO25"
+ },
+ {
+  "code": "KSD126",
+  "prg": "JO25"
+ },
+ {
+  "code": "KSD126",
+  "prg": "JO25"
+ },
+ {
+  "code": "KSD222",
+  "prg": "JO25"
+ },
+ {
+  "code": "KDY136",
+  "prg": "JO26",
+  "grade": "B",
+  "position": 2,
+  "pts": 6
+ },
+ {
+  "code": "PMN126",
+  "prg": "JO26"
+ },
+ {
+  "code": "PMN249",
+  "prg": "JO26"
+ },
+ {
+  "code": "TGI217",
+  "prg": "JO26",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
+ },
+ {
+  "code": "TGI110",
+  "prg": "JO26"
+ },
+ {
+  "code": "VGA117",
+  "prg": "JO26"
+ },
+ {
+  "code": "VGA223",
+  "prg": "JO26"
+ },
+ {
+  "code": "KNR264",
+  "prg": "JO26"
+ },
+ {
+  "code": "CLT184",
+  "prg": "JO26",
+  "grade": "B",
+  "position": 3,
+  "pts": 4
+ },
+ {
+  "code": "CLT128",
+  "prg": "JO26"
+ },
+ {
+  "code": "PKD202",
+  "prg": "JO26"
+ },
+ {
+  "code": "KSD125",
+  "prg": "JO26"
+ },
+ {
+  "code": "KSD125",
+  "prg": "JO26"
+ },
+ {
+  "code": "KDY143",
+  "prg": "JO27"
+ },
+ {
+  "code": "KDY118",
+  "prg": "JO27"
+ },
+ {
+  "code": "PMN132",
+  "prg": "JO27",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "TGI208",
+  "prg": "JO27",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
+ },
+ {
+  "code": "TGI204",
+  "prg": "JO27"
+ },
+ {
+  "code": "VGA122",
+  "prg": "JO27",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "VGA151",
+  "prg": "JO27"
+ },
+ {
+  "code": "KNR129",
+  "prg": "JO27"
+ },
+ {
+  "code": "KNR324",
+  "prg": "JO27"
+ },
+ {
+  "code": "CLT136",
+  "prg": "JO27"
+ },
+ {
+  "code": "CLT177",
+  "prg": "JO27"
+ },
+ {
+  "code": "PKD219",
+  "prg": "JO27"
+ },
+ {
+  "code": "PKD161",
+  "prg": "JO27"
+ },
+ {
+  "code": "KSD128",
+  "prg": "JO27"
+ },
+ {
+  "code": "KSD105",
+  "prg": "JO27"
+ },
+ {
+  "code": "KSD105",
+  "prg": "JO27"
+ },
+ {
+  "code": "KSD128",
+  "prg": "JO27"
+ },
+ {
+  "code": "KDY123",
+  "prg": "JO28",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "KDY318",
+  "prg": "JO28"
+ },
+ {
+  "code": "KDY169",
+  "prg": "JO28"
+ },
+ {
+  "code": "PMN282",
+  "prg": "JO28"
+ },
+ {
+  "code": "PMN197",
+  "prg": "JO28"
+ },
+ {
+  "code": "TGI213",
+  "prg": "JO28",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "VGA110",
+  "prg": "JO28",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
+ },
+ {
+  "code": "VGA227",
+  "prg": "JO28"
+ },
+ {
+  "code": "KNR175",
+  "prg": "JO28"
+ },
+ {
+  "code": "KNR319",
+  "prg": "JO28"
+ },
+ {
+  "code": "CLT141",
+  "prg": "JO28"
+ },
+ {
+  "code": "CLT171",
+  "prg": "JO28"
+ },
+ {
+  "code": "PKD155",
+  "prg": "JO28"
+ },
+ {
+  "code": "KSD231",
+  "prg": "JO28"
+ },
+ {
+  "code": "KSD231",
+  "prg": "JO28"
+ },
+ {
+  "code": "KDY281",
+  "prg": "JO29"
+ },
+ {
+  "code": "PMN126",
+  "prg": "JO29"
+ },
+ {
+  "code": "PMN247",
+  "prg": "JO29",
+  "grade": "B",
+  "position": 1,
+  "pts": 8
+ },
+ {
+  "code": "TGI401",
+  "prg": "JO29",
+  "grade": "B",
+  "position": 3,
+  "pts": 4
+ },
+ {
+  "code": "TGI185",
+  "prg": "JO29"
+ },
+ {
+  "code": "VGA123",
+  "prg": "JO29"
+ },
+ {
+  "code": "VGA329",
+  "prg": "JO29"
+ },
+ {
+  "code": "KNR126",
+  "prg": "JO29"
+ },
+ {
+  "code": "KNR252",
+  "prg": "JO29",
+  "grade": "B",
+  "position": 2,
+  "pts": 6
+ },
+ {
+  "code": "CLT135",
+  "prg": "JO29"
+ },
+ {
+  "code": "CLT244",
+  "prg": "JO29"
+ },
+ {
+  "code": "PKD219",
+  "prg": "JO29"
+ },
+ {
+  "code": "KSD168",
+  "prg": "JO29"
+ },
+ {
+  "code": "KSD168",
+  "prg": "JO29"
+ },
+ {
+  "code": "KDY123",
+  "prg": "JO30",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KDY282",
+  "prg": "JO30"
+ },
+ {
+  "code": "PMN132",
+  "prg": "JO30"
+ },
+ {
+  "code": "PMN246",
+  "prg": "JO30"
+ },
+ {
+  "code": "TGI219",
+  "prg": "JO30",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "TGI417",
+  "prg": "JO30"
+ },
+ {
+  "code": "VGA110",
+  "prg": "JO30",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "VGA144",
+  "prg": "JO30"
+ },
+ {
+  "code": "KNR175",
+  "prg": "JO30",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
+ },
+ {
+  "code": "KNR265",
+  "prg": "JO30"
+ },
+ {
+  "code": "CLT129",
+  "prg": "JO30"
+ },
+ {
+  "code": "PKD224",
+  "prg": "JO30"
+ },
+ {
+  "code": "KSD153",
+  "prg": "JO30"
+ },
+ {
+  "code": "KSD231",
+  "prg": "JO30"
+ },
+ {
+  "code": "KSD153",
+  "prg": "JO30"
+ },
+ {
+  "code": "KSD231",
+  "prg": "JO30"
+ },
+ {
+  "code": "KDY128",
+  "prg": "JS1",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KDY269",
+  "prg": "JS1"
+ },
+ {
+  "code": "PMN152",
+  "prg": "JS1"
+ },
+ {
+  "code": "PMN238",
+  "prg": "JS1"
+ },
+ {
+  "code": "TGI341",
+  "prg": "JS1"
+ },
+ {
+  "code": "TGI208",
+  "prg": "JS1",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "VGA153",
+  "prg": "JS1",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "VGA124",
+  "prg": "JS1",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "KNR143",
+  "prg": "JS1"
+ },
+ {
+  "code": "KNR345",
+  "prg": "JS1"
+ },
+ {
+  "code": "CLT169",
+  "prg": "JS1",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
+ },
+ {
+  "code": "CLT128",
+  "prg": "JS1"
+ },
+ {
+  "code": "PKD184",
+  "prg": "JS1"
+ },
+ {
+  "code": "PKD156",
+  "prg": "JS1"
+ },
+ {
+  "code": "KSD130",
+  "prg": "JS1",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "KSD149",
+  "prg": "JS1"
+ },
+ {
+  "code": "KSD130",
+  "prg": "JS1"
+ },
+ {
+  "code": "KSD149",
+  "prg": "JS1"
+ },
+ {
+  "code": "KDY323",
+  "prg": "JS10",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KDY201",
+  "prg": "JS10",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "PMN114",
+  "prg": "JS10"
+ },
+ {
+  "code": "PMN171",
+  "prg": "JS10"
+ },
+ {
+  "code": "TGI212",
+  "prg": "JS10",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "TGI269",
+  "prg": "JS10"
+ },
+ {
+  "code": "VGA109",
+  "prg": "JS10",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "VGA287",
+  "prg": "JS10"
+ },
+ {
+  "code": "KNR167",
+  "prg": "JS10",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KNR249",
+  "prg": "JS10"
+ },
+ {
+  "code": "CLT128",
+  "prg": "JS10",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "CLT141",
+  "prg": "JS10",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "VGA153",
+  "prg": "JS10",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
+ },
+ {
+  "code": "PKD242",
+  "prg": "JS10"
+ },
+ {
+  "code": "PKD209",
+  "prg": "JS10",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KSD175",
+  "prg": "JS10"
+ },
+ {
+  "code": "KSD180",
+  "prg": "JS10",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "KSD175",
+  "prg": "JS10"
+ },
+ {
+  "code": "KSD180",
+  "prg": "JS10"
+ },
+ {
+  "code": "KDY227",
+  "prg": "JS11"
+ },
+ {
+  "code": "KDY230",
+  "prg": "JS11"
+ },
+ {
+  "code": "PMN125",
+  "prg": "JS11",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "PMN226",
+  "prg": "JS11",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "TGI212",
+  "prg": "JS11",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
+ },
+ {
+  "code": "TGI179",
+  "prg": "JS11",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "VGA112",
+  "prg": "JS11",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "VGA272",
+  "prg": "JS11"
+ },
+ {
+  "code": "KNR195",
+  "prg": "JS11",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KNR250",
+  "prg": "JS11",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "CLT137",
+  "prg": "JS11",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "CLT122",
+  "prg": "JS11",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "PKD242",
+  "prg": "JS11",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "PKD209",
+  "prg": "JS11"
+ },
+ {
+  "code": "KSD132",
+  "prg": "JS11"
+ },
+ {
+  "code": "KSD182",
+  "prg": "JS11",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KSD132",
+  "prg": "JS11"
+ },
+ {
+  "code": "KSD182",
+  "prg": "JS11"
+ },
+ {
+  "code": "KDY195",
+  "prg": "JS12"
+ },
+ {
+  "code": "KDY158",
+  "prg": "JS12"
+ },
+ {
+  "code": "PMN107",
+  "prg": "JS12",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "PMN249",
+  "prg": "JS12"
+ },
+ {
+  "code": "TGI325",
+  "prg": "JS12",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "TGI216",
+  "prg": "JS12",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "VGA109",
+  "prg": "JS12",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
+ },
+ {
+  "code": "VGA325",
+  "prg": "JS12",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KNR136",
+  "prg": "JS12",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KNR250",
+  "prg": "JS12"
+ },
+ {
+  "code": "CLT156",
+  "prg": "JS12",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "CLT101",
+  "prg": "JS12",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "PKD149",
+  "prg": "JS12"
+ },
+ {
+  "code": "PKD276",
+  "prg": "JS12",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KSD236",
+  "prg": "JS12",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KSD154",
+  "prg": "JS12"
+ },
+ {
+  "code": "KSD154",
+  "prg": "JS12"
+ },
+ {
+  "code": "KSD236",
+  "prg": "JS12"
+ },
+ {
+  "code": "KDY306",
+  "prg": "JS13"
+ },
+ {
+  "code": "KDY399",
+  "prg": "JS13"
+ },
+ {
+  "code": "PMN243",
+  "prg": "JS13"
+ },
+ {
+  "code": "PMN241",
+  "prg": "JS13",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "TGI342",
+  "prg": "JS13"
+ },
+ {
+  "code": "TGI295",
+  "prg": "JS13"
+ },
+ {
+  "code": "VGA113",
+  "prg": "JS13",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "VGA134",
+  "prg": "JS13"
+ },
+ {
+  "code": "KNR135",
+  "prg": "JS13"
+ },
+ {
+  "code": "KNR256",
+  "prg": "JS13",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "CLT220",
+  "prg": "JS13",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "CLT127",
+  "prg": "JS13"
+ },
+ {
+  "code": "PKD320",
+  "prg": "JS13"
+ },
+ {
+  "code": "PKD284",
+  "prg": "JS13"
+ },
+ {
+  "code": "KSD110",
+  "prg": "JS13"
+ },
+ {
+  "code": "KSD130",
+  "prg": "JS13",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
+ },
+ {
+  "code": "KSD110",
+  "prg": "JS13"
+ },
+ {
+  "code": "KSD130",
+  "prg": "JS13"
+ },
+ {
+  "code": "KDY220",
+  "prg": "JS14"
+ },
+ {
+  "code": "KDY145",
+  "prg": "JS14",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "PMN240",
+  "prg": "JS14"
+ },
+ {
+  "code": "PMN120",
+  "prg": "JS14"
+ },
+ {
+  "code": "TGI349",
+  "prg": "JS14",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "TGI211",
+  "prg": "JS14"
+ },
+ {
+  "code": "VGA111",
+  "prg": "JS14",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
+ },
+ {
+  "code": "VGA144",
+  "prg": "JS14",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KNR174",
+  "prg": "JS14",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "KNR198",
+  "prg": "JS14"
+ },
+ {
+  "code": "CLT238",
+  "prg": "JS14"
+ },
+ {
+  "code": "CLT136",
+  "prg": "JS14"
+ },
+ {
+  "code": "PKD118",
+  "prg": "JS14"
+ },
+ {
+  "code": "PKD215",
+  "prg": "JS14"
+ },
+ {
+  "code": "KSD136",
+  "prg": "JS14"
+ },
+ {
+  "code": "KSD222",
+  "prg": "JS14"
+ },
+ {
+  "code": "KSD136",
+  "prg": "JS14"
+ },
+ {
+  "code": "KSD222",
+  "prg": "JS14"
+ },
+ {
+  "code": "KDY129",
+  "prg": "JS15",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "KDY180",
+  "prg": "JS15"
+ },
+ {
+  "code": "PMN133",
+  "prg": "JS15",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "TGI214",
+  "prg": "JS15",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
+ },
+ {
+  "code": "TGI111",
+  "prg": "JS15"
+ },
+ {
+  "code": "VGA118",
+  "prg": "JS15",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "VGA140",
+  "prg": "JS15"
+ },
+ {
+  "code": "KNR199",
+  "prg": "JS15"
+ },
+ {
+  "code": "KNR257",
+  "prg": "JS15"
+ },
+ {
+  "code": "CLT110",
+  "prg": "JS15",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "CLT176",
+  "prg": "JS15",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "PKD161",
+  "prg": "JS15"
+ },
+ {
+  "code": "PKD289",
+  "prg": "JS15"
+ },
+ {
+  "code": "KSD233",
+  "prg": "JS15",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KSD136",
+  "prg": "JS15"
+ },
+ {
+  "code": "KSD136",
+  "prg": "JS15"
+ },
+ {
+  "code": "KSD233",
+  "prg": "JS15"
+ },
+ {
+  "code": "KDY131",
+  "prg": "JS16",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
+ },
+ {
+  "code": "KDY171",
+  "prg": "JS16"
+ },
+ {
+  "code": "PMN126",
+  "prg": "JS16"
+ },
+ {
+  "code": "PMN159",
+  "prg": "JS16"
+ },
+ {
+  "code": "TGI219",
+  "prg": "JS16",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
+ },
+ {
+  "code": "TGI194",
+  "prg": "JS16"
+ },
+ {
+  "code": "VGA114",
+  "prg": "JS16",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "VGA151",
+  "prg": "JS16"
+ },
+ {
+  "code": "KNR129",
+  "prg": "JS16"
+ },
+ {
+  "code": "KNR257",
+  "prg": "JS16"
+ },
+ {
+  "code": "CLT190",
+  "prg": "JS16"
+ },
+ {
+  "code": "CLT173",
+  "prg": "JS16",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "PKD146",
+  "prg": "JS16"
+ },
+ {
+  "code": "PKD154",
+  "prg": "JS16"
+ },
+ {
+  "code": "KSD231",
+  "prg": "JS16"
+ },
+ {
+  "code": "KSD131",
+  "prg": "JS16"
+ },
+ {
+  "code": "KSD131",
+  "prg": "JS16"
+ },
+ {
+  "code": "KSD231",
+  "prg": "JS16"
+ },
+ {
+  "code": "KDY142",
+  "prg": "JS17",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
+ },
+ {
+  "code": "KDY172",
+  "prg": "JS17"
+ },
+ {
+  "code": "PMN232",
+  "prg": "JS17",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "PMN133",
+  "prg": "JS17"
+ },
+ {
+  "code": "TGI207",
+  "prg": "JS17",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "TGI265",
+  "prg": "JS17"
+ },
+ {
+  "code": "VGA115",
+  "prg": "JS17",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "VGA149",
+  "prg": "JS17"
+ },
+ {
+  "code": "KNR131",
+  "prg": "JS17"
+ },
+ {
+  "code": "KNR260",
+  "prg": "JS17",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "CLT104",
+  "prg": "JS17"
+ },
+ {
+  "code": "CLT168",
+  "prg": "JS17"
+ },
+ {
+  "code": "PKD224",
+  "prg": "JS17",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "PKD152",
+  "prg": "JS17"
+ },
+ {
+  "code": "KSD222",
+  "prg": "JS17"
+ },
+ {
+  "code": "KSD125",
+  "prg": "JS17"
+ },
+ {
+  "code": "KSD125",
+  "prg": "JS17"
+ },
+ {
+  "code": "KSD222",
+  "prg": "JS17"
+ },
+ {
+  "code": "KDY164",
+  "prg": "JS18",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "KDY201",
+  "prg": "JS18",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "PMN122",
+  "prg": "JS18",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "TGI242",
+  "prg": "JS18"
+ },
+ {
+  "code": "TGI216",
+  "prg": "JS18",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "VGA153",
+  "prg": "JS18",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
+ },
+ {
+  "code": "VGA146",
+  "prg": "JS18"
+ },
+ {
+  "code": "KNR167",
+  "prg": "JS18"
+ },
+ {
+  "code": "KNR249",
+  "prg": "JS18"
+ },
+ {
+  "code": "CLT108",
+  "prg": "JS18"
+ },
+ {
+  "code": "CLT137",
+  "prg": "JS18"
+ },
+ {
+  "code": "PKD229",
+  "prg": "JS18"
+ },
+ {
+  "code": "PKD200",
+  "prg": "JS18"
+ },
+ {
+  "code": "PMN226",
+  "prg": "JS18",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "KSD135",
+  "prg": "JS18"
+ },
+ {
+  "code": "KSD236",
+  "prg": "JS18",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KSD135",
+  "prg": "JS18"
+ },
+ {
+  "code": "KSD236",
+  "prg": "JS18"
+ },
+ {
+  "code": "KDY133",
+  "prg": "JS19",
+  "grade": "A",
+  "position": 1,
+  "pts": 15
+ },
+ {
+  "code": "KDY301",
+  "prg": "JS19"
+ },
+ {
+  "code": "PMN224",
+  "prg": "JS19",
+  "grade": "A",
+  "position": 2,
+  "pts": 13
+ },
+ {
+  "code": "PMN125",
+  "prg": "JS19"
+ },
+ {
+  "code": "TGI212",
+  "prg": "JS19",
+  "grade": "A",
+  "position": 3,
+  "pts": 11
+ },
+ {
+  "code": "TGI266",
+  "prg": "JS19"
+ },
+ {
+  "code": "VGA111",
+  "prg": "JS19",
+  "grade": "A",
+  "position": 2,
+  "pts": 13
+ },
+ {
+  "code": "VGA153",
+  "prg": "JS19",
+  "grade": "A",
+  "position": 2,
+  "pts": 13
+ },
+ {
+  "code": "KNR167",
+  "prg": "JS19"
+ },
+ {
+  "code": "KNR253",
+  "prg": "JS19",
+  "grade": "A",
+  "position": 3,
+  "pts": 11
+ },
+ {
+  "code": "CLT141",
+  "prg": "JS19"
+ },
+ {
+  "code": "CLT101",
+  "prg": "JS19",
+  "grade": "A",
+  "position": 3,
+  "pts": 11
+ },
+ {
+  "code": "PKD196",
+  "prg": "JS19"
+ },
+ {
+  "code": "KSD180",
+  "prg": "JS19"
+ },
+ {
+  "code": "KSD131",
+  "prg": "JS19"
+ },
+ {
+  "code": "KSD131",
+  "prg": "JS19"
+ },
+ {
+  "code": "KSD180",
+  "prg": "JS19"
+ },
+ {
+  "code": "KDY140",
+  "prg": "JS2",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KDY283",
+  "prg": "JS2"
+ },
+ {
+  "code": "PMN152",
+  "prg": "JS2"
+ },
+ {
+  "code": "PMN238",
+  "prg": "JS2",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
+ },
+ {
+  "code": "TGI183",
+  "prg": "JS2"
+ },
+ {
+  "code": "TGI222",
+  "prg": "JS2",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "VGA108",
+  "prg": "JS2",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "VGA135",
+  "prg": "JS2"
+ },
+ {
+  "code": "KNR132",
+  "prg": "JS2"
+ },
+ {
+  "code": "KNR143",
+  "prg": "JS2",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "CLT150",
+  "prg": "JS2"
+ },
+ {
+  "code": "CLT170",
+  "prg": "JS2",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "PKD184",
+  "prg": "JS2"
+ },
+ {
+  "code": "PKD198",
+  "prg": "JS2"
+ },
+ {
+  "code": "KSD129",
+  "prg": "JS2"
+ },
+ {
+  "code": "KSD187",
+  "prg": "JS2"
+ },
+ {
+  "code": "KSD129",
+  "prg": "JS2"
+ },
+ {
+  "code": "KSD187",
+  "prg": "JS2"
+ },
+ {
+  "code": "KDY130",
+  "prg": "JS20",
+  "grade": "A",
+  "position": 1,
+  "pts": 15
+ },
+ {
+  "code": "KDY169",
+  "prg": "JS20"
+ },
+ {
+  "code": "PMN226",
+  "prg": "JS20",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "PMN206",
+  "prg": "JS20"
+ },
+ {
+  "code": "TGI216",
+  "prg": "JS20",
+  "grade": "A",
+  "position": 2,
+  "pts": 13
+ },
+ {
+  "code": "TGI245",
+  "prg": "JS20"
+ },
+ {
+  "code": "VGA109",
+  "prg": "JS20",
+  "grade": "A",
+  "position": 2,
+  "pts": 13
+ },
+ {
+  "code": "VGA153",
+  "prg": "JS20",
+  "grade": "A",
+  "position": 3,
+  "pts": 11
+ },
+ {
+  "code": "KNR167",
+  "prg": "JS20"
+ },
+ {
+  "code": "KNR196",
+  "prg": "JS20"
+ },
+ {
+  "code": "CLT141",
+  "prg": "JS20",
+  "grade": "A",
+  "position": 3,
+  "pts": 11
+ },
+ {
+  "code": "CLT187",
+  "prg": "JS20"
+ },
+ {
+  "code": "PKD276",
+  "prg": "JS20"
+ },
+ {
+  "code": "PKD196",
+  "prg": "JS20"
+ },
+ {
+  "code": "KSD186",
+  "prg": "JS20"
+ },
+ {
+  "code": "KSD151",
+  "prg": "JS20"
+ },
+ {
+  "code": "KSD151",
+  "prg": "JS20"
+ },
+ {
+  "code": "KSD186",
+  "prg": "JS20"
+ },
+ {
+  "code": "KDY302",
+  "prg": "JS3"
+ },
+ {
+  "code": "KDY292",
+  "prg": "JS3"
+ },
+ {
+  "code": "PMN226",
+  "prg": "JS3"
+ },
+ {
+  "code": "PMN198",
+  "prg": "JS3"
+ },
+ {
+  "code": "TGI399",
+  "prg": "JS3"
+ },
+ {
+  "code": "TGI184",
+  "prg": "JS3"
+ },
+ {
+  "code": "VGA124",
+  "prg": "JS3",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
+ },
+ {
+  "code": "VGA139",
+  "prg": "JS3"
+ },
+ {
+  "code": "KNR132",
+  "prg": "JS3",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KNR143",
+  "prg": "JS3"
+ },
+ {
+  "code": "CLT169",
+  "prg": "JS3",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "CLT232",
+  "prg": "JS3"
+ },
+ {
+  "code": "PKD176",
+  "prg": "JS3"
+ },
+ {
+  "code": "PKD276",
+  "prg": "JS3"
+ },
+ {
+  "code": "KSD130",
+  "prg": "JS3",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "KSD230",
+  "prg": "JS3"
+ },
+ {
+  "code": "KSD130",
+  "prg": "JS3"
+ },
+ {
+  "code": "KSD230",
+  "prg": "JS3"
+ },
+ {
+  "code": "KDY301",
+  "prg": "JS4"
+ },
+ {
+  "code": "KDY140",
+  "prg": "JS4",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "PMN207",
+  "prg": "JS4"
+ },
+ {
+  "code": "PMN238",
+  "prg": "JS4"
+ },
+ {
+  "code": "TGI212",
+  "prg": "JS4",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
+ },
+ {
+  "code": "TGI110",
+  "prg": "JS4"
+ },
+ {
+  "code": "VGA108",
+  "prg": "JS4",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "VGA147",
+  "prg": "JS4"
+ },
+ {
+  "code": "KNR126",
+  "prg": "JS4",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "KNR252",
+  "prg": "JS4",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "CLT104",
+  "prg": "JS4",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "CLT174",
+  "prg": "JS4",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "PKD260",
+  "prg": "JS4"
+ },
+ {
+  "code": "PKD155",
+  "prg": "JS4"
+ },
+ {
+  "code": "KSD134",
+  "prg": "JS4"
+ },
+ {
+  "code": "KSD181",
+  "prg": "JS4"
+ },
+ {
+  "code": "KSD134",
+  "prg": "JS4"
+ },
+ {
+  "code": "KSD181",
+  "prg": "JS4"
+ },
+ {
+  "code": "KDY220",
+  "prg": "JS5"
+ },
+ {
+  "code": "KDY126",
+  "prg": "JS5"
+ },
+ {
+  "code": "PMN204",
+  "prg": "JS5",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "PMN239",
+  "prg": "JS5",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "TGI116",
+  "prg": "JS5"
+ },
+ {
+  "code": "TGI167",
+  "prg": "JS5"
+ },
+ {
+  "code": "VGA108",
+  "prg": "JS5",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "VGA163",
+  "prg": "JS5",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KNR113",
+  "prg": "JS5"
+ },
+ {
+  "code": "KNR251",
+  "prg": "JS5",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "CLT177",
+  "prg": "JS5",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
+ },
+ {
+  "code": "CLT220",
+  "prg": "JS5",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "PKD155",
+  "prg": "JS5"
+ },
+ {
+  "code": "PKD207",
+  "prg": "JS5"
+ },
+ {
+  "code": "KSD134",
+  "prg": "JS5",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "KSD172",
+  "prg": "JS5"
+ },
+ {
+  "code": "KSD134",
+  "prg": "JS5"
+ },
+ {
+  "code": "KSD172",
+  "prg": "JS5"
+ },
+ {
+  "code": "KDY195",
+  "prg": "JS6",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
+ },
+ {
+  "code": "KDY135",
+  "prg": "JS6",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "PMN225",
+  "prg": "JS6",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "PMN196",
+  "prg": "JS6"
+ },
+ {
+  "code": "TGI188",
+  "prg": "JS6",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "TGI214",
+  "prg": "JS6",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "VGA114",
+  "prg": "JS6",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "VGA240",
+  "prg": "JS6",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KNR174",
+  "prg": "JS6",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "KNR248",
+  "prg": "JS6",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "CLT153",
+  "prg": "JS6",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "CLT219",
+  "prg": "JS6",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "PKD224",
+  "prg": "JS6"
+ },
+ {
+  "code": "PKD149",
+  "prg": "JS6",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KSD134",
+  "prg": "JS6",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "KSD232",
+  "prg": "JS6",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KSD134",
+  "prg": "JS6"
+ },
+ {
+  "code": "KSD232",
+  "prg": "JS6"
+ },
+ {
+  "code": "KDY135",
+  "prg": "JS7",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KDY295",
+  "prg": "JS7",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "PMN237",
+  "prg": "JS7",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "PMN132",
+  "prg": "JS7",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "TGI217",
+  "prg": "JS7",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "TGI186",
+  "prg": "JS7",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "VGA107",
+  "prg": "JS7",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "VGA141",
+  "prg": "JS7",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "KNR136",
+  "prg": "JS7",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KNR259",
+  "prg": "JS7",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "CLT182",
+  "prg": "JS7",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "CLT219",
+  "prg": "JS7",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
+ },
+ {
+  "code": "PKD193",
+  "prg": "JS7",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "PKD208",
+  "prg": "JS7",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KSD129",
+  "prg": "JS7",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KSD185",
+  "prg": "JS7"
+ },
+ {
+  "code": "KSD129",
+  "prg": "JS7"
+ },
+ {
+  "code": "KSD185",
+  "prg": "JS7"
+ },
+ {
+  "code": "KDY124",
+  "prg": "JS8",
+  "grade": "B",
+  "position": 3,
+  "pts": 4
+ },
+ {
+  "code": "KDY163",
+  "prg": "JS8",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
+ },
+ {
+  "code": "PMN121",
+  "prg": "JS8"
+ },
+ {
+  "code": "TGI206",
+  "prg": "JS8"
+ },
+ {
+  "code": "TGI309",
+  "prg": "JS8",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "VGA227",
+  "prg": "JS8"
+ },
+ {
+  "code": "VGA110",
+  "prg": "JS8"
+ },
+ {
+  "code": "KNR126",
+  "prg": "JS8",
+  "grade": "B",
+  "position": 3,
+  "pts": 4
+ },
+ {
+  "code": "KNR252",
+  "prg": "JS8"
+ },
+ {
+  "code": "CLT129",
+  "prg": "JS8"
+ },
+ {
+  "code": "CLT112",
+  "prg": "JS8"
+ },
+ {
+  "code": "PKD258",
+  "prg": "JS8"
+ },
+ {
+  "code": "PKD283",
+  "prg": "JS8"
+ },
+ {
+  "code": "KSD136",
+  "prg": "JS8"
+ },
+ {
+  "code": "KSD233",
+  "prg": "JS8"
+ },
+ {
+  "code": "KSD136",
+  "prg": "JS8"
+ },
+ {
+  "code": "KSD233",
+  "prg": "JS8"
+ },
+ {
+  "code": "KDY201",
+  "prg": "JS9",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "KDY169",
+  "prg": "JS9"
+ },
+ {
+  "code": "PMN107",
+  "prg": "JS9",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "PMN153",
+  "prg": "JS9"
+ },
+ {
+  "code": "TGI216",
+  "prg": "JS9",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "TGI294",
+  "prg": "JS9",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "VGA111",
+  "prg": "JS9",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
+ },
+ {
+  "code": "VGA314",
+  "prg": "JS9",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KNR167",
+  "prg": "JS9",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KNR172",
+  "prg": "JS9"
+ },
+ {
+  "code": "CLT101",
+  "prg": "JS9",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "CLT217",
+  "prg": "JS9",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "PKD296",
+  "prg": "JS9"
+ },
+ {
+  "code": "PKD156",
+  "prg": "JS9"
+ },
+ {
+  "code": "KSD180",
+  "prg": "JS9"
+ },
+ {
+  "code": "KSD179",
+  "prg": "JS9"
+ },
+ {
+  "code": "KSD179",
+  "prg": "JS9"
+ },
+ {
+  "code": "KSD180",
+  "prg": "JS9"
+ },
+ {
+  "code": "KSD517",
+  "prg": "SO21"
+ },
+ {
+  "code": "KDY536",
+  "prg": "SO21"
+ },
+ {
+  "code": "KDY519",
+  "prg": "SO21"
+ },
+ {
+  "code": "PMN675",
+  "prg": "SO21"
+ },
+ {
+  "code": "PMN551",
+  "prg": "SO21"
+ },
+ {
+  "code": "TGI577",
+  "prg": "SO21",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "TGI552",
+  "prg": "SO21"
+ },
+ {
+  "code": "VGA529",
+  "prg": "SO21",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
+ },
+ {
+  "code": "VGA629",
+  "prg": "SO21"
+ },
+ {
+  "code": "KNR518",
+  "prg": "SO21"
+ },
+ {
+  "code": "KNR709",
+  "prg": "SO21"
+ },
+ {
+  "code": "CLT576",
+  "prg": "SO21",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "CLT526",
+  "prg": "SO21"
+ },
+ {
+  "code": "PKD593",
+  "prg": "SO21"
+ },
+ {
+  "code": "PKD589",
+  "prg": "SO21"
+ },
+ {
+  "code": "KSD517",
+  "prg": "SO21"
+ },
+ {
+  "code": "KSD517",
+  "prg": "SO22"
+ },
+ {
+  "code": "KDY542",
+  "prg": "SO22",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "KDY591",
+  "prg": "SO22"
+ },
+ {
+  "code": "PMN561",
+  "prg": "SO22"
+ },
+ {
+  "code": "PMN532",
+  "prg": "SO22"
+ },
+ {
+  "code": "TGI578",
+  "prg": "SO22",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
+ },
+ {
+  "code": "VGA534",
+  "prg": "SO22",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "VGA627",
+  "prg": "SO22"
+ },
+ {
+  "code": "KNR518",
+  "prg": "SO22"
+ },
+ {
+  "code": "KNR662",
+  "prg": "SO22"
+ },
+ {
+  "code": "CLT576",
+  "prg": "SO22",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "CLT596",
+  "prg": "SO22"
+ },
+ {
+  "code": "PKD589",
+  "prg": "SO22"
+ },
+ {
+  "code": "KSD517",
+  "prg": "SO22"
+ },
+ {
+  "code": "KSD598",
+  "prg": "SO23"
+ },
+ {
+  "code": "KDY547",
+  "prg": "SO23",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "PMN597",
+  "prg": "SO23"
+ },
+ {
+  "code": "PMN624",
+  "prg": "SO23"
+ },
+ {
+  "code": "TGI580",
+  "prg": "SO23",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "TGI775",
+  "prg": "SO23"
+ },
+ {
+  "code": "VGA629",
+  "prg": "SO23"
+ },
+ {
+  "code": "VGA529",
+  "prg": "SO23",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
+ },
+ {
+  "code": "KNR518",
+  "prg": "SO23"
+ },
+ {
+  "code": "KNR554",
+  "prg": "SO23"
+ },
+ {
+  "code": "CLT526",
+  "prg": "SO23"
+ },
+ {
+  "code": "PKD616",
+  "prg": "SO23"
+ },
+ {
+  "code": "PKD537",
+  "prg": "SO23"
+ },
+ {
+  "code": "KSD598",
+  "prg": "SO23"
+ },
+ {
+  "code": "KSD519",
+  "prg": "SO24"
+ },
+ {
+  "code": "PMN551",
+  "prg": "SO24"
+ },
+ {
+  "code": "KDY547",
+  "prg": "SO24",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KDY578",
+  "prg": "SO24"
+ },
+ {
+  "code": "PMN505",
+  "prg": "SO24"
+ },
+ {
+  "code": "TGI577",
+  "prg": "SO24",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "VGA529",
+  "prg": "SO24",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
+ },
+ {
+  "code": "VGA629",
+  "prg": "SO24",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "KNR639",
+  "prg": "SO24"
+ },
+ {
+  "code": "CLT596",
+  "prg": "SO24"
+ },
+ {
+  "code": "PKD575",
+  "prg": "SO24"
+ },
+ {
+  "code": "KSD519",
+  "prg": "SO24"
+ },
+ {
+  "code": "KSD582",
+  "prg": "SO25"
+ },
+ {
+  "code": "KDY509",
+  "prg": "SO25"
+ },
+ {
+  "code": "PMN562",
+  "prg": "SO25",
+  "grade": "B",
+  "position": 3,
+  "pts": 4
+ },
+ {
+  "code": "PMN530",
+  "prg": "SO25"
+ },
+ {
+  "code": "PMN604",
+  "prg": "SO25",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "TGI567",
+  "prg": "SO25"
+ },
+ {
+  "code": "TGI585",
+  "prg": "SO25",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
+ },
+ {
+  "code": "VGA518",
+  "prg": "SO25",
+  "grade": "B",
+  "position": 3,
+  "pts": 4
+ },
+ {
+  "code": "VGA689",
+  "prg": "SO25"
+ },
+ {
+  "code": "KNR591",
+  "prg": "SO25"
+ },
+ {
+  "code": "KNR597",
+  "prg": "SO25"
+ },
+ {
+  "code": "CLT503",
+  "prg": "SO25"
+ },
+ {
+  "code": "CLT567",
+  "prg": "SO25"
+ },
+ {
+  "code": "PKD627",
+  "prg": "SO25"
+ },
+ {
+  "code": "KSD582",
+  "prg": "SO25"
+ },
+ {
+  "code": "KSD588",
+  "prg": "SO26"
+ },
+ {
+  "code": "KDY583",
+  "prg": "SO26"
+ },
+ {
+  "code": "PMN523",
+  "prg": "SO26"
+ },
+ {
+  "code": "PMN578",
+  "prg": "SO26"
+ },
+ {
+  "code": "PMN604",
+  "prg": "SO26"
+ },
+ {
+  "code": "TGI570",
+  "prg": "SO26",
+  "grade": "B",
+  "position": 3,
+  "pts": 4
+ },
+ {
+  "code": "TGI576",
+  "prg": "SO26"
+ },
+ {
+  "code": "VGA530",
+  "prg": "SO26",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
+ },
+ {
+  "code": "VGA503",
+  "prg": "SO26"
+ },
+ {
+  "code": "KNR591",
+  "prg": "SO26"
+ },
+ {
+  "code": "KNR642",
+  "prg": "SO26",
+  "grade": "B",
+  "position": 2,
+  "pts": 6
+ },
+ {
+  "code": "CLT578",
+  "prg": "SO26"
+ },
+ {
+  "code": "CLT503",
+  "prg": "SO26"
+ },
+ {
+  "code": "PKD523",
+  "prg": "SO26"
+ },
+ {
+  "code": "KSD588",
+  "prg": "SO26"
+ },
+ {
+  "code": "KSD549",
+  "prg": "SO27"
+ },
+ {
+  "code": "KDY595",
+  "prg": "SO27"
+ },
+ {
+  "code": "KDY534",
+  "prg": "SO27"
+ },
+ {
+  "code": "PMN573",
+  "prg": "SO27"
+ },
+ {
+  "code": "PMN671",
+  "prg": "SO27"
+ },
+ {
+  "code": "TGI585",
+  "prg": "SO27"
+ },
+ {
+  "code": "TGI725",
+  "prg": "SO27"
+ },
+ {
+  "code": "VGA516",
+  "prg": "SO27",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
+ },
+ {
+  "code": "VGA701",
+  "prg": "SO27",
+  "grade": "B",
+  "position": 3,
+  "pts": 4
+ },
+ {
+  "code": "KNR607",
+  "prg": "SO27"
+ },
+ {
+  "code": "KNR642",
+  "prg": "SO27",
+  "grade": "B",
+  "position": 2,
+  "pts": 6
+ },
+ {
+  "code": "CLT507",
+  "prg": "SO27"
+ },
+ {
+  "code": "CLT528",
+  "prg": "SO27"
+ },
+ {
+  "code": "KSD549",
+  "prg": "SO27"
+ },
+ {
+  "code": "KSD521",
+  "prg": "SO28"
+ },
+ {
+  "code": "KDY549",
+  "prg": "SO28"
+ },
+ {
+  "code": "KDY525",
+  "prg": "SO28"
+ },
+ {
+  "code": "PMN604",
+  "prg": "SO28",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "TGI695",
+  "prg": "SO28"
+ },
+ {
+  "code": "TGI550",
+  "prg": "SO28"
+ },
+ {
+  "code": "VGA518",
+  "prg": "SO28",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
+ },
+ {
+  "code": "VGA564",
+  "prg": "SO28"
+ },
+ {
+  "code": "KNR591",
+  "prg": "SO28"
+ },
+ {
+  "code": "KNR640",
+  "prg": "SO28"
+ },
+ {
+  "code": "CLT524",
+  "prg": "SO28",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "PKD570",
+  "prg": "SO28"
+ },
+ {
+  "code": "KSD521",
+  "prg": "SO28"
+ },
+ {
+  "code": "KDY550",
+  "prg": "SO29",
+  "grade": "B",
+  "position": 1,
+  "pts": 8
+ },
+ {
+  "code": "KDY585",
+  "prg": "SO29"
+ },
+ {
+  "code": "PMN545",
+  "prg": "SO29"
+ },
+ {
+  "code": "PMN609",
+  "prg": "SO29",
+  "grade": "B",
+  "position": 2,
+  "pts": 6
+ },
+ {
+  "code": "TGI768",
+  "prg": "SO29"
+ },
+ {
+  "code": "TGI588",
+  "prg": "SO29"
+ },
+ {
+  "code": "VGA531",
+  "prg": "SO29"
+ },
+ {
+  "code": "VGA658",
+  "prg": "SO29"
+ },
+ {
+  "code": "KNR567",
+  "prg": "SO29"
+ },
+ {
+  "code": "KNR672",
+  "prg": "SO29"
+ },
+ {
+  "code": "CLT524",
+  "prg": "SO29",
+  "grade": "B",
+  "position": 3,
+  "pts": 4
+ },
+ {
+  "code": "CLT627",
+  "prg": "SO29"
+ },
+ {
+  "code": "PKD603",
+  "prg": "SO29"
+ },
+ {
+  "code": "PKD615",
+  "prg": "SO29"
+ },
+ {
+  "code": "KSD522",
+  "prg": "SO30"
+ },
+ {
+  "code": "KSD592",
+  "prg": "SO30"
+ },
+ {
+  "code": "KDY632",
+  "prg": "SO30"
+ },
+ {
+  "code": "KDY710",
+  "prg": "SO30"
+ },
+ {
+  "code": "PMN598",
+  "prg": "SO30",
+  "grade": "B",
+  "position": 2,
+  "pts": 6
+ },
+ {
+  "code": "PMN530",
+  "prg": "SO30"
+ },
+ {
+  "code": "TGI591",
+  "prg": "SO30"
+ },
+ {
+  "code": "TGI514",
+  "prg": "SO30"
+ },
+ {
+  "code": "VGA535",
+  "prg": "SO30",
+  "grade": "B",
+  "position": 1,
+  "pts": 8
+ },
+ {
+  "code": "VGA572",
+  "prg": "SO30"
+ },
+ {
+  "code": "KNR554",
+  "prg": "SO30"
+ },
+ {
+  "code": "KNR618",
+  "prg": "SO30"
+ },
+ {
+  "code": "CLT529",
+  "prg": "SO30",
+  "grade": "B",
+  "position": 3,
+  "pts": 2
+ },
+ {
+  "code": "CLT578",
+  "prg": "SO30"
+ },
+ {
+  "code": "PKD615",
+  "prg": "SO30"
+ },
+ {
+  "code": "PKD676",
+  "prg": "SO30"
+ },
+ {
+  "code": "KSD522",
+  "prg": "SO30"
+ },
+ {
+  "code": "KSD592",
+  "prg": "SO30"
+ },
+ {
+  "code": "KSD519",
+  "prg": "SO31"
+ },
+ {
+  "code": "KDY540",
+  "prg": "SO31"
+ },
+ {
+  "code": "PMN598",
+  "prg": "SO31",
+  "grade": "B",
+  "position": 2,
+  "pts": 6
+ },
+ {
+  "code": "PMN528",
+  "prg": "SO31",
+  "grade": "B",
+  "position": 3,
+  "pts": 4
+ },
+ {
+  "code": "TGI556",
+  "prg": "SO31"
+ },
+ {
+  "code": "VGA658",
+  "prg": "SO31"
+ },
+ {
+  "code": "VGA536",
+  "prg": "SO31",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
+ },
+ {
+  "code": "KNR563",
+  "prg": "SO31"
+ },
+ {
+  "code": "KNR587",
+  "prg": "SO31"
+ },
+ {
+  "code": "CLT625",
+  "prg": "SO31"
+ },
+ {
+  "code": "CLT501",
+  "prg": "SO31"
+ },
+ {
+  "code": "PKD615",
+  "prg": "SO31"
+ },
+ {
+  "code": "PKD601",
+  "prg": "SO31"
+ },
+ {
+  "code": "KSD519",
+  "prg": "SO31"
+ },
+ {
+  "code": "KSD523",
+  "prg": "SO32"
+ },
+ {
+  "code": "KSD560",
+  "prg": "SO32"
+ },
+ {
+  "code": "KDY672",
+  "prg": "SO32"
+ },
+ {
+  "code": "PMN528",
+  "prg": "SO32",
+  "grade": "C",
+  "position": 3,
+  "pts": 2
+ },
+ {
+  "code": "PMN568",
+  "prg": "SO32"
+ },
+ {
+  "code": "TGI735",
+  "prg": "SO32"
+ },
+ {
+  "code": "TGI590",
+  "prg": "SO32",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
+ },
+ {
+  "code": "VGA532",
+  "prg": "SO32",
+  "grade": "C",
+  "position": 2,
+  "pts": 4
+ },
+ {
+  "code": "VGA579",
+  "prg": "SO32"
+ },
+ {
+  "code": "KNR540",
+  "prg": "SO32"
+ },
+ {
+  "code": "KNR597",
+  "prg": "SO32"
+ },
+ {
+  "code": "CLT599",
+  "prg": "SO32"
+ },
+ {
+  "code": "CLT650",
+  "prg": "SO32"
+ },
+ {
+  "code": "PKD573",
+  "prg": "SO32"
+ },
+ {
+  "code": "KSD560",
+  "prg": "SO32"
+ },
+ {
+  "code": "KSD523",
+  "prg": "SO32"
+ },
+ {
+  "code": "KSD522",
+  "prg": "SO33"
+ },
+ {
+  "code": "KDY548",
+  "prg": "SO33",
+  "grade": "B",
+  "position": 1,
+  "pts": 8
+ },
+ {
+  "code": "KDY587",
+  "prg": "SO33"
+ },
+ {
+  "code": "PMN527",
+  "prg": "SO33"
+ },
+ {
+  "code": "PMN611",
+  "prg": "SO33",
+  "grade": "B",
+  "position": 3,
+  "pts": 4
+ },
+ {
+  "code": "TGI567",
+  "prg": "SO33"
+ },
+ {
+  "code": "TGI591",
+  "prg": "SO33",
+  "grade": "B",
+  "position": 2,
+  "pts": 6
+ },
+ {
+  "code": "VGA515",
+  "prg": "SO33",
+  "grade": "B",
+  "position": 3,
+  "pts": 4
+ },
+ {
+  "code": "VGA996",
+  "prg": "SO33"
+ },
+ {
+  "code": "KNR618",
+  "prg": "SO33"
+ },
+ {
+  "code": "KNR641",
+  "prg": "SO33"
+ },
+ {
+  "code": "CLT501",
+  "prg": "SO33"
+ },
+ {
+  "code": "CLT578",
+  "prg": "SO33"
+ },
+ {
+  "code": "PKD597",
+  "prg": "SO33"
+ },
+ {
+  "code": "KSD522",
+  "prg": "SO33"
+ },
+ {
+  "code": "KSD524",
+  "prg": "SO34"
+ },
+ {
+  "code": "KDY513",
+  "prg": "SO34"
+ },
+ {
+  "code": "KDY588",
+  "prg": "SO34"
+ },
+ {
+  "code": "PMN600",
+  "prg": "SO34"
+ },
+ {
+  "code": "PMN511",
+  "prg": "SO34"
+ },
+ {
+  "code": "TGI594",
+  "prg": "SO34"
+ },
+ {
+  "code": "TGI585",
+  "prg": "SO34",
+  "grade": "B",
+  "position": 2,
+  "pts": 6
+ },
+ {
+  "code": "VGA518",
+  "prg": "SO34",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
+ },
+ {
+  "code": "KNR640",
+  "prg": "SO34",
+  "grade": "B",
+  "position": 3,
+  "pts": 4
+ },
+ {
+  "code": "CLT595",
+  "prg": "SO34"
+ },
+ {
+  "code": "CLT564",
+  "prg": "SO34"
+ },
+ {
+  "code": "PKD530",
+  "prg": "SO34"
+ },
+ {
+  "code": "KSD524",
+  "prg": "SO34"
+ },
+ {
+  "code": "KSD518",
+  "prg": "SO35"
+ },
+ {
+  "code": "KDY544",
+  "prg": "SO35",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
+ },
+ {
+  "code": "KDY582",
+  "prg": "SO35"
+ },
+ {
+  "code": "PMN600",
+  "prg": "SO35"
+ },
+ {
+  "code": "PMN618",
+  "prg": "SO35"
+ },
+ {
+  "code": "TGI576",
+  "prg": "SO35",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "TGI673",
+  "prg": "SO35"
+ },
+ {
+  "code": "VGA530",
+  "prg": "SO35",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "VGA540",
+  "prg": "SO35"
+ },
+ {
+  "code": "KNR562",
+  "prg": "SO35"
+ },
+ {
+  "code": "CLT595",
+  "prg": "SO35"
+ },
+ {
+  "code": "PKD604",
+  "prg": "SO35"
+ },
+ {
+  "code": "PKD642",
+  "prg": "SO35"
+ },
+ {
+  "code": "PKD575",
+  "prg": "SO35"
+ },
+ {
+  "code": "KSD518",
+  "prg": "SO35"
+ },
+ {
+  "code": "KSD523",
+  "prg": "SO36"
+ },
+ {
+  "code": "KDY674",
+  "prg": "SO36"
+ },
+ {
+  "code": "KDY537",
+  "prg": "SO36"
+ },
+ {
+  "code": "PMN543",
+  "prg": "SO36"
+ },
+ {
+  "code": "PMN524",
+  "prg": "SO36"
+ },
+ {
+  "code": "TGI728",
+  "prg": "SO36"
+ },
+ {
+  "code": "TGI591",
+  "prg": "SO36",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
+ },
+ {
+  "code": "VGA699",
+  "prg": "SO36",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "VGA532",
+  "prg": "SO36",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "KNR554",
+  "prg": "SO36"
+ },
+ {
+  "code": "KNR651",
+  "prg": "SO36"
+ },
+ {
+  "code": "CLT529",
+  "prg": "SO36"
+ },
+ {
+  "code": "CLT635",
+  "prg": "SO36"
+ },
+ {
+  "code": "PKD628",
+  "prg": "SO36"
+ },
+ {
+  "code": "PKD598",
+  "prg": "SO36"
+ },
+ {
+  "code": "KSD523",
+  "prg": "SO36"
+ },
+ {
+  "code": "KSD525",
+  "prg": "SO37"
+ },
+ {
+  "code": "KSD600",
+  "prg": "SO37"
+ },
+ {
+  "code": "KDY534",
+  "prg": "SO37",
+  "grade": "B",
+  "position": 2,
+  "pts": 6
+ },
+ {
+  "code": "KDY732",
+  "prg": "SO37"
+ },
+ {
+  "code": "PMN644",
+  "prg": "SO37"
+ },
+ {
+  "code": "PMN575",
+  "prg": "SO37"
+ },
+ {
+  "code": "TGI584",
+  "prg": "SO37"
+ },
+ {
+  "code": "TGI547",
+  "prg": "SO37"
+ },
+ {
+  "code": "VGA519",
+  "prg": "SO37",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
+ },
+ {
+  "code": "VGA701",
+  "prg": "SO37",
+  "grade": "C",
+  "position": 3,
+  "pts": 2
+ },
+ {
+  "code": "KNR562",
+  "prg": "SO37"
+ },
+ {
+  "code": "KNR617",
+  "prg": "SO37"
+ },
+ {
+  "code": "CLT528",
+  "prg": "SO37"
+ },
+ {
+  "code": "CLT554",
+  "prg": "SO37"
+ },
+ {
+  "code": "PKD562",
+  "prg": "SO37"
+ },
+ {
+  "code": "PKD548",
+  "prg": "SO37"
+ },
+ {
+  "code": "KSD600",
+  "prg": "SO37"
+ },
+ {
+  "code": "KSD525",
+  "prg": "SO37"
+ },
+ {
+  "code": "KSD588",
+  "prg": "SO38"
+ },
+ {
+  "code": "KDY544",
+  "prg": "SO38",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "PMN578",
+  "prg": "SO38"
+ },
+ {
+  "code": "PMN531",
+  "prg": "SO38"
+ },
+ {
+  "code": "TGI582",
+  "prg": "SO38",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "VGA516",
+  "prg": "SO38",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
+ },
+ {
+  "code": "KNR579",
+  "prg": "SO38"
+ },
+ {
+  "code": "CLT551",
+  "prg": "SO38"
+ },
+ {
+  "code": "CLT597",
+  "prg": "SO38"
+ },
+ {
+  "code": "PKD537",
+  "prg": "SO38"
+ },
+ {
+  "code": "KSD588",
+  "prg": "SO38"
+ },
+ {
+  "code": "KSD517",
+  "prg": "SO39"
+ },
+ {
+  "code": "KDY540",
+  "prg": "SO39"
+ },
+ {
+  "code": "KDY527",
+  "prg": "SO39"
+ },
+ {
+  "code": "PMN554",
+  "prg": "SO39"
+ },
+ {
+  "code": "PMN598",
+  "prg": "SO39"
+ },
+ {
+  "code": "TGI588",
+  "prg": "SO39"
+ },
+ {
+  "code": "TGI700",
+  "prg": "SO39",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "VGA533",
+  "prg": "SO39",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
+ },
+ {
+  "code": "VGA572",
+  "prg": "SO39"
+ },
+ {
+  "code": "KNR504",
+  "prg": "SO39"
+ },
+ {
+  "code": "KNR632",
+  "prg": "SO39"
+ },
+ {
+  "code": "CLT583",
+  "prg": "SO39"
+ },
+ {
+  "code": "CLT535",
+  "prg": "SO39",
+  "grade": "B",
+  "position": 3,
+  "pts": 4
+ },
+ {
+  "code": "PKD604",
+  "prg": "SO39"
+ },
+ {
+  "code": "PKD588",
+  "prg": "SO39"
+ },
+ {
+  "code": "KSD517",
+  "prg": "SO39"
+ },
+ {
+  "code": "KDY528",
+  "prg": "SO40"
+ },
+ {
+  "code": "KDY705",
+  "prg": "SO40",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "PMN597",
+  "prg": "SO40",
+  "grade": "A",
+  "position": 3,
+  "pts": 11
+ },
+ {
+  "code": "PMN526",
+  "prg": "SO40"
+ },
+ {
+  "code": "TGI591",
+  "prg": "SO40",
+  "grade": "A",
+  "position": 1,
+  "pts": 15
+ },
+ {
+  "code": "VGA518",
+  "prg": "SO40",
+  "grade": "A",
+  "position": 2,
+  "pts": 13
+ },
+ {
+  "code": "VGA658",
+  "prg": "SO40"
+ },
+ {
+  "code": "KNR554",
+  "prg": "SO40"
+ },
+ {
+  "code": "KNR629",
+  "prg": "SO40"
+ },
+ {
+  "code": "CLT508",
+  "prg": "SO40",
+  "grade": "A",
+  "position": 3,
+  "pts": 11
+ },
+ {
+  "code": "CLT598",
+  "prg": "SO40",
+  "grade": "A",
+  "position": 3,
+  "pts": 11
+ },
+ {
+  "code": "PKD577",
+  "prg": "SO40",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KSD526",
+  "prg": "SS1"
+ },
+ {
+  "code": "KSD539",
+  "prg": "SS1"
+ },
+ {
+  "code": "KDY712",
+  "prg": "SS1",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "KDY743",
+  "prg": "SS1"
+ },
+ {
+  "code": "PMN511",
+  "prg": "SS1",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "PMN613",
+  "prg": "SS1",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "TGI587",
+  "prg": "SS1",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "TGI620",
+  "prg": "SS1"
+ },
+ {
+  "code": "VGA512",
+  "prg": "SS1",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
+ },
+ {
+  "code": "VGA552",
+  "prg": "SS1",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "KNR603",
+  "prg": "SS1",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KNR626",
+  "prg": "SS1",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "CLT593",
+  "prg": "SS1"
+ },
+ {
+  "code": "CLT514",
+  "prg": "SS1",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "PKD683",
+  "prg": "SS1",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "PKD555",
+  "prg": "SS1"
+ },
+ {
+  "code": "KSD526",
+  "prg": "SS1",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "KSD539",
+  "prg": "SS1"
+ },
+ {
+  "code": "KSD563",
+  "prg": "SS10"
+ },
+ {
+  "code": "KSD600",
+  "prg": "SS10"
+ },
+ {
+  "code": "KDY718",
+  "prg": "SS10"
+ },
+ {
+  "code": "KDY549",
+  "prg": "SS10",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "PMN606",
+  "prg": "SS10"
+ },
+ {
+  "code": "PMN517",
+  "prg": "SS10",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "TGI594",
+  "prg": "SS10"
+ },
+ {
+  "code": "TGI547",
+  "prg": "SS10"
+ },
+ {
+  "code": "VGA512",
+  "prg": "SS10",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "VGA502",
+  "prg": "SS10"
+ },
+ {
+  "code": "KNR590",
+  "prg": "SS10",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KNR629",
+  "prg": "SS10",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "CLT604",
+  "prg": "SS10",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "CLT501",
+  "prg": "SS10"
+ },
+ {
+  "code": "PKD615",
+  "prg": "SS10",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "PKD634",
+  "prg": "SS10"
+ },
+ {
+  "code": "KSD563",
+  "prg": "SS10"
+ },
+ {
+  "code": "KSD600",
+  "prg": "SS10",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KSD521",
+  "prg": "SS11"
+ },
+ {
+  "code": "KSD582",
+  "prg": "SS11"
+ },
+ {
+  "code": "KDY665",
+  "prg": "SS11"
+ },
+ {
+  "code": "KDY544",
+  "prg": "SS11",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
+ },
+ {
+  "code": "PMN562",
+  "prg": "SS11",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "TGI700",
+  "prg": "SS11"
+ },
+ {
+  "code": "TGI671",
+  "prg": "SS11"
+ },
+ {
+  "code": "VGA518",
+  "prg": "SS11",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "VGA631",
+  "prg": "SS11"
+ },
+ {
+  "code": "KNR547",
+  "prg": "SS11"
+ },
+ {
+  "code": "KNR598",
+  "prg": "SS11"
+ },
+ {
+  "code": "CLT507",
+  "prg": "SS11"
+ },
+ {
+  "code": "CLT578",
+  "prg": "SS11"
+ },
+ {
+  "code": "PKD624",
+  "prg": "SS11"
+ },
+ {
+  "code": "PKD514",
+  "prg": "SS11"
+ },
+ {
+  "code": "KSD521",
+  "prg": "SS11"
+ },
+ {
+  "code": "KSD582",
+  "prg": "SS11"
+ },
+ {
+  "code": "KSD526",
+  "prg": "SS12"
+ },
+ {
+  "code": "KSD600",
+  "prg": "SS12"
+ },
+ {
+  "code": "KDY671",
+  "prg": "SS12",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KDY518",
+  "prg": "SS12"
+ },
+ {
+  "code": "PMN529",
+  "prg": "SS12",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "TGI770",
+  "prg": "SS12",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
+ },
+ {
+  "code": "TGI583",
+  "prg": "SS12",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "VGA519",
+  "prg": "SS12",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "KNR548",
+  "prg": "SS12",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KNR629",
+  "prg": "SS12",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "CLT527",
+  "prg": "SS12",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "CLT515",
+  "prg": "SS12",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "PKD542",
+  "prg": "SS12",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "PKD661",
+  "prg": "SS12",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KSD526",
+  "prg": "SS12",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "KSD600",
+  "prg": "SS12",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "KSD527",
+  "prg": "SS13"
+ },
+ {
+  "code": "KSD589",
+  "prg": "SS13"
+ },
+ {
+  "code": "KDY540",
+  "prg": "SS13",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KDY511",
+  "prg": "SS13",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
+ },
+ {
+  "code": "PMN604",
+  "prg": "SS13"
+ },
+ {
+  "code": "PMN529",
+  "prg": "SS13"
+ },
+ {
+  "code": "TGI586",
+  "prg": "SS13",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "TGI557",
+  "prg": "SS13"
+ },
+ {
+  "code": "VGA525",
+  "prg": "SS13",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "VGA558",
+  "prg": "SS13"
+ },
+ {
+  "code": "KNR504",
+  "prg": "SS13"
+ },
+ {
+  "code": "KNR642",
+  "prg": "SS13"
+ },
+ {
+  "code": "CLT562",
+  "prg": "SS13",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "CLT577",
+  "prg": "SS13"
+ },
+ {
+  "code": "PKD611",
+  "prg": "SS13"
+ },
+ {
+  "code": "PKD594",
+  "prg": "SS13"
+ },
+ {
+  "code": "KSD589",
+  "prg": "SS13"
+ },
+ {
+  "code": "KSD527",
+  "prg": "SS13"
+ },
+ {
+  "code": "KSD540",
+  "prg": "SS14"
+ },
+ {
+  "code": "KDY535",
+  "prg": "SS14",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KDY731",
+  "prg": "SS14",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
+ },
+ {
+  "code": "PMN513",
+  "prg": "SS14",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "PMN608",
+  "prg": "SS14",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "TGI739",
+  "prg": "SS14",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "TGI610",
+  "prg": "SS14",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "VGA515",
+  "prg": "SS14",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "VGA704",
+  "prg": "SS14",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KNR618",
+  "prg": "SS14"
+ },
+ {
+  "code": "KNR625",
+  "prg": "SS14",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "CLT518",
+  "prg": "SS14",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "CLT594",
+  "prg": "SS14",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "PKD597",
+  "prg": "SS14",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "PKD656",
+  "prg": "SS14",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KSD540",
+  "prg": "SS14",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "PKD570",
+  "prg": "SS14",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KSD559",
+  "prg": "SS15"
+ },
+ {
+  "code": "KSD601",
+  "prg": "SS15"
+ },
+ {
+  "code": "KDY548",
+  "prg": "SS15",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
+ },
+ {
+  "code": "KDY587",
+  "prg": "SS15"
+ },
+ {
+  "code": "PMN525",
+  "prg": "SS15"
+ },
+ {
+  "code": "PMN552",
+  "prg": "SS15"
+ },
+ {
+  "code": "TGI514",
+  "prg": "SS15"
+ },
+ {
+  "code": "TGI591",
+  "prg": "SS15"
+ },
+ {
+  "code": "VGA518",
+  "prg": "SS15",
+  "grade": "B",
+  "position": 3,
+  "pts": 4
+ },
+ {
+  "code": "VGA696",
+  "prg": "SS15",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "KNR587",
+  "prg": "SS15",
+  "grade": "B",
+  "position": 3,
+  "pts": 4
+ },
+ {
+  "code": "KNR618",
+  "prg": "SS15"
+ },
+ {
+  "code": "CLT509",
+  "prg": "SS15",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "CLT529",
+  "prg": "SS15"
+ },
+ {
+  "code": "PKD562",
+  "prg": "SS15"
+ },
+ {
+  "code": "PKD615",
+  "prg": "SS15"
+ },
+ {
+  "code": "KSD559",
+  "prg": "SS15"
+ },
+ {
+  "code": "KSD601",
+  "prg": "SS15"
+ },
+ {
+  "code": "KSD522",
+  "prg": "SS16"
+ },
+ {
+  "code": "KSD599",
+  "prg": "SS16"
+ },
+ {
+  "code": "KDY674",
+  "prg": "SS16"
+ },
+ {
+  "code": "KDY603",
+  "prg": "SS16",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
+ },
+ {
+  "code": "PMN599",
+  "prg": "SS16",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "PMN521",
+  "prg": "SS16"
+ },
+ {
+  "code": "TGI739",
+  "prg": "SS16"
+ },
+ {
+  "code": "TGI576",
+  "prg": "SS16"
+ },
+ {
+  "code": "VGA515",
+  "prg": "SS16",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "VGA611",
+  "prg": "SS16",
+  "grade": "A",
+  "position": 3,
+  "pts": 8
+ },
+ {
+  "code": "KNR541",
+  "prg": "SS16"
+ },
+ {
+  "code": "KNR607",
+  "prg": "SS16"
+ },
+ {
+  "code": "CLT509",
+  "prg": "SS16"
+ },
+ {
+  "code": "CLT528",
+  "prg": "SS16"
+ },
+ {
+  "code": "PKD541",
+  "prg": "SS16"
+ },
+ {
+  "code": "PKD588",
+  "prg": "SS16",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KSD522",
+  "prg": "SS16",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "KSD599",
+  "prg": "SS16"
+ },
+ {
+  "code": "PKD696",
+  "prg": "SS16",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KNR641",
+  "prg": "SS16",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "KSD529",
+  "prg": "SS17"
+ },
+ {
+  "code": "KDY530",
+  "prg": "SS17",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
+ },
+ {
+  "code": "KDY585",
+  "prg": "SS17"
+ },
+ {
+  "code": "PMN600",
+  "prg": "SS17",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "PMN549",
+  "prg": "SS17"
+ },
+ {
+  "code": "TGI592",
+  "prg": "SS17",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "TGI610",
+  "prg": "SS17",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "VGA528",
+  "prg": "SS17",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "VGA628",
+  "prg": "SS17",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "KNR626",
+  "prg": "SS17",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "KNR712",
+  "prg": "SS17",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "CLT562",
+  "prg": "SS17",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "CLT527",
+  "prg": "SS17"
+ },
+ {
+  "code": "PKD572",
+  "prg": "SS17"
+ },
+ {
+  "code": "PKD591",
+  "prg": "SS17"
+ },
+ {
+  "code": "KSD529",
+  "prg": "SS17",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KSD526",
+  "prg": "SS18"
+ },
+ {
+  "code": "KDY530",
+  "prg": "SS18",
+  "grade": "A",
+  "position": 1,
+  "pts": 15
+ },
+ {
+  "code": "KDY702",
+  "prg": "SS18"
+ },
+ {
+  "code": "PMN603",
+  "prg": "SS18"
+ },
+ {
+  "code": "PMN662",
+  "prg": "SS18",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "TGI588",
+  "prg": "SS18",
+  "grade": "A",
+  "position": 2,
+  "pts": 13
+ },
+ {
+  "code": "TGI548",
+  "prg": "SS18"
+ },
+ {
+  "code": "VGA561",
+  "prg": "SS18",
+  "grade": "A",
+  "position": 3,
+  "pts": 11
+ },
+ {
+  "code": "VGA520",
+  "prg": "SS18",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KNR629",
+  "prg": "SS18"
+ },
+ {
+  "code": "KNR712",
+  "prg": "SS18"
+ },
+ {
+  "code": "CLT521",
+  "prg": "SS18"
+ },
+ {
+  "code": "CLT562",
+  "prg": "SS18"
+ },
+ {
+  "code": "PKD594",
+  "prg": "SS18"
+ },
+ {
+  "code": "PKD575",
+  "prg": "SS18",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KSD526",
+  "prg": "SS18",
+  "grade": "A",
+  "position": 2,
+  "pts": 13
+ },
+ {
+  "code": "KSD526",
+  "prg": "SS19"
+ },
+ {
+  "code": "KSD598",
+  "prg": "SS19"
+ },
+ {
+  "code": "KDY712",
+  "prg": "SS19"
+ },
+ {
+  "code": "KDY530",
+  "prg": "SS19",
+  "grade": "A",
+  "position": 1,
+  "pts": 15
+ },
+ {
+  "code": "PMN663",
+  "prg": "SS19"
+ },
+ {
+  "code": "PMN564",
+  "prg": "SS19"
+ },
+ {
+  "code": "TGI588",
+  "prg": "SS19",
+  "grade": "A",
+  "position": 2,
+  "pts": 13
+ },
+ {
+  "code": "TGI696",
+  "prg": "SS19"
+ },
+ {
+  "code": "VGA520",
+  "prg": "SS19",
+  "grade": "A",
+  "position": 3,
+  "pts": 11
+ },
+ {
+  "code": "VGA561",
+  "prg": "SS19",
+  "grade": "A",
+  "position": 2,
+  "pts": 13
+ },
+ {
+  "code": "KNR626",
+  "prg": "SS19",
+  "grade": "A",
+  "position": 3,
+  "pts": 11
+ },
+ {
+  "code": "KNR712",
+  "prg": "SS19"
+ },
+ {
+  "code": "CLT604",
+  "prg": "SS19"
+ },
+ {
+  "code": "CLT521",
+  "prg": "SS19"
+ },
+ {
+  "code": "PKD649",
+  "prg": "SS19"
+ },
+ {
+  "code": "PKD575",
+  "prg": "SS19"
+ },
+ {
+  "code": "KSD526",
+  "prg": "SS19"
+ },
+ {
+  "code": "KSD598",
+  "prg": "SS19"
+ },
+ {
+  "code": "KSD528",
+  "prg": "SS2"
+ },
+ {
+  "code": "KSD587",
+  "prg": "SS2"
+ },
+ {
+  "code": "KDY599",
+  "prg": "SS2",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "KDY549",
+  "prg": "SS2"
+ },
+ {
+  "code": "PMN578",
+  "prg": "SS2"
+ },
+ {
+  "code": "PMN525",
+  "prg": "SS2",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "TGI697",
+  "prg": "SS2",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "TGI557",
+  "prg": "SS2",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
+ },
+ {
+  "code": "VGA547",
+  "prg": "SS2"
+ },
+ {
+  "code": "VGA512",
+  "prg": "SS2"
+ },
+ {
+  "code": "KNR603",
+  "prg": "SS2",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "KNR639",
+  "prg": "SS2"
+ },
+ {
+  "code": "CLT514",
+  "prg": "SS2",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "CLT553",
+  "prg": "SS2"
+ },
+ {
+  "code": "PKD667",
+  "prg": "SS2"
+ },
+ {
+  "code": "PKD548",
+  "prg": "SS2"
+ },
+ {
+  "code": "KSD587",
+  "prg": "SS2"
+ },
+ {
+  "code": "KSD528",
+  "prg": "SS2"
+ },
+ {
+  "code": "KSD503",
+  "prg": "SS20"
+ },
+ {
+  "code": "KSD520",
+  "prg": "SS20"
+ },
+ {
+  "code": "KDY693",
+  "prg": "SS20"
+ },
+ {
+  "code": "KDY528",
+  "prg": "SS20",
+  "grade": "A",
+  "position": 3,
+  "pts": 11
+ },
+ {
+  "code": "PMN598",
+  "prg": "SS20"
+ },
+ {
+  "code": "PMN527",
+  "prg": "SS20",
+  "grade": "A",
+  "position": 1,
+  "pts": 15
+ },
+ {
+  "code": "TGI591",
+  "prg": "SS20",
+  "grade": "A",
+  "position": 3,
+  "pts": 11
+ },
+ {
+  "code": "TGI550",
+  "prg": "SS20"
+ },
+ {
+  "code": "VGA527",
+  "prg": "SS20",
+  "grade": "A",
+  "position": 1,
+  "pts": 15
+ },
+ {
+  "code": "VGA557",
+  "prg": "SS20"
+ },
+ {
+  "code": "KNR586",
+  "prg": "SS20"
+ },
+ {
+  "code": "KNR641",
+  "prg": "SS20"
+ },
+ {
+  "code": "CLT518",
+  "prg": "SS20",
+  "grade": "A",
+  "position": 2,
+  "pts": 13
+ },
+ {
+  "code": "CLT523",
+  "prg": "SS20",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "PKD561",
+  "prg": "SS20"
+ },
+ {
+  "code": "PKD591",
+  "prg": "SS20"
+ },
+ {
+  "code": "KSD520",
+  "prg": "SS20"
+ },
+ {
+  "code": "KSD503",
+  "prg": "SS20"
+ },
+ {
+  "code": "KSD501",
+  "prg": "SS3"
+ },
+ {
+  "code": "KSD526",
+  "prg": "SS3"
+ },
+ {
+  "code": "KDY601",
+  "prg": "SS3",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KDY552",
+  "prg": "SS3",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
+ },
+ {
+  "code": "PMN565",
+  "prg": "SS3",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "PMN613",
+  "prg": "SS3",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "TGI593",
+  "prg": "SS3",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "TGI781",
+  "prg": "SS3",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "VGA513",
+  "prg": "SS3",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "VGA698",
+  "prg": "SS3",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KNR626",
+  "prg": "SS3",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KNR657",
+  "prg": "SS3"
+ },
+ {
+  "code": "CLT593",
+  "prg": "SS3",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "CLT564",
+  "prg": "SS3"
+ },
+ {
+  "code": "PKD555",
+  "prg": "SS3"
+ },
+ {
+  "code": "PKD517",
+  "prg": "SS3"
+ },
+ {
+  "code": "KSD526",
+  "prg": "SS3",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "KSD501",
+  "prg": "SS3"
+ },
+ {
+  "code": "CLT189",
+  "prg": "SS30"
+ },
+ {
+  "code": "KSD539",
+  "prg": "SS4"
+ },
+ {
+  "code": "KSD560",
+  "prg": "SS4"
+ },
+ {
+  "code": "KDY544",
+  "prg": "SS4",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KDY513",
+  "prg": "SS4"
+ },
+ {
+  "code": "PMN601",
+  "prg": "SS4",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "PMN531",
+  "prg": "SS4",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "TGI549",
+  "prg": "SS4",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "TGI588",
+  "prg": "SS4"
+ },
+ {
+  "code": "VGA514",
+  "prg": "SS4",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
+ },
+ {
+  "code": "VGA503",
+  "prg": "SS4"
+ },
+ {
+  "code": "KNR571",
+  "prg": "SS4"
+ },
+ {
+  "code": "KNR641",
+  "prg": "SS4",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "CLT513",
+  "prg": "SS4"
+ },
+ {
+  "code": "CLT523",
+  "prg": "SS4",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "PKD594",
+  "prg": "SS4"
+ },
+ {
+  "code": "PKD615",
+  "prg": "SS4"
+ },
+ {
+  "code": "KSD539",
+  "prg": "SS4"
+ },
+ {
+  "code": "KSD560",
+  "prg": "SS4"
+ },
+ {
+  "code": "KSD522",
+  "prg": "SS5"
+ },
+ {
+  "code": "KSD539",
+  "prg": "SS5"
+ },
+ {
+  "code": "KDY606",
+  "prg": "SS5"
+ },
+ {
+  "code": "KDY530",
+  "prg": "SS5",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
+ },
+ {
+  "code": "PMN600",
+  "prg": "SS5",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "PMN654",
+  "prg": "SS5"
+ },
+ {
+  "code": "TGI581",
+  "prg": "SS5",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "TGI553",
+  "prg": "SS5"
+ },
+ {
+  "code": "VGA527",
+  "prg": "SS5"
+ },
+ {
+  "code": "VGA620",
+  "prg": "SS5"
+ },
+ {
+  "code": "KNR589",
+  "prg": "SS5",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "KNR625",
+  "prg": "SS5"
+ },
+ {
+  "code": "CLT603",
+  "prg": "SS5"
+ },
+ {
+  "code": "CLT501",
+  "prg": "SS5"
+ },
+ {
+  "code": "PKD695",
+  "prg": "SS5",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "PKD634",
+  "prg": "SS5"
+ },
+ {
+  "code": "KSD539",
+  "prg": "SS5",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KSD522",
+  "prg": "SS5"
+ },
+ {
+  "code": "KSD502",
+  "prg": "SS6"
+ },
+ {
+  "code": "KSD522",
+  "prg": "SS6"
+ },
+ {
+  "code": "KDY716",
+  "prg": "SS6",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KDY603",
+  "prg": "SS6",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "PMN599",
+  "prg": "SS6",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "PMN670",
+  "prg": "SS6",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "TGI583",
+  "prg": "SS6",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "TGI509",
+  "prg": "SS6"
+ },
+ {
+  "code": "VGA515",
+  "prg": "SS6",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "VGA502",
+  "prg": "SS6"
+ },
+ {
+  "code": "KNR641",
+  "prg": "SS6",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KNR658",
+  "prg": "SS6",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "CLT595",
+  "prg": "SS6",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "CLT501",
+  "prg": "SS6",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "PKD696",
+  "prg": "SS6",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "PKD588",
+  "prg": "SS6",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KSD522",
+  "prg": "SS6",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
+ },
+ {
+  "code": "KSD502",
+  "prg": "SS6"
+ },
+ {
+  "code": "KSD528",
+  "prg": "SS7"
+ },
+ {
+  "code": "KSD554",
+  "prg": "SS7"
+ },
+ {
+  "code": "KDY552",
+  "prg": "SS7",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
+ },
+ {
+  "code": "KDY513",
+  "prg": "SS7"
+ },
+ {
+  "code": "PMN601",
+  "prg": "SS7",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "PMN562",
+  "prg": "SS7"
+ },
+ {
+  "code": "TGI579",
+  "prg": "SS7",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "TGI554",
+  "prg": "SS7"
+ },
+ {
+  "code": "VGA516",
+  "prg": "SS7",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "VGA563",
+  "prg": "SS7",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KNR595",
+  "prg": "SS7"
+ },
+ {
+  "code": "KNR642",
+  "prg": "SS7"
+ },
+ {
+  "code": "CLT609",
+  "prg": "SS7",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "CLT624",
+  "prg": "SS7",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "PKD673",
+  "prg": "SS7"
+ },
+ {
+  "code": "PKD581",
+  "prg": "SS7"
+ },
+ {
+  "code": "KSD528",
+  "prg": "SS7",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "KSD554",
+  "prg": "SS7",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KSD527",
+  "prg": "SS8"
+ },
+ {
+  "code": "KSD595",
+  "prg": "SS8"
+ },
+ {
+  "code": "KDY533",
+  "prg": "SS8",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KDY701",
+  "prg": "SS8",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "PMN600",
+  "prg": "SS8",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "PMN584",
+  "prg": "SS8",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "TGI551",
+  "prg": "SS8",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "TGI581",
+  "prg": "SS8",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "VGA517",
+  "prg": "SS8",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
+ },
+ {
+  "code": "VGA562",
+  "prg": "SS8",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KNR514",
+  "prg": "SS8"
+ },
+ {
+  "code": "KNR631",
+  "prg": "SS8",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "CLT506",
+  "prg": "SS8",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "CLT607",
+  "prg": "SS8",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "PKD551",
+  "prg": "SS8"
+ },
+ {
+  "code": "PKD586",
+  "prg": "SS8",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KSD595",
+  "prg": "SS8"
+ },
+ {
+  "code": "KSD527",
+  "prg": "SS8",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KSD518",
+  "prg": "SS9"
+ },
+ {
+  "code": "KSD549",
+  "prg": "SS9"
+ },
+ {
+  "code": "KDY606",
+  "prg": "SS9",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "KDY550",
+  "prg": "SS9",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
+  "code": "PMN529",
+  "prg": "SS9",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "PMN609",
+  "prg": "SS9",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
+ },
+ {
+  "code": "TGI555",
+  "prg": "SS9",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "TGI577",
+  "prg": "SS9",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "VGA528",
+  "prg": "SS9",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "VGA558",
+  "prg": "SS9",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KNR517",
+  "prg": "SS9",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KNR632",
+  "prg": "SS9",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "CLT600",
+  "prg": "SS9",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "CLT627",
+  "prg": "SS9"
+ },
+ {
+  "code": "PKD603",
+  "prg": "SS9"
+ },
+ {
+  "code": "PKD583",
+  "prg": "SS9"
+ },
+ {
+  "code": "KSD518",
+  "prg": "SS9",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KSD549",
+  "prg": "SS9",
+  "grade": "A",
+  "pts": 5
+ }
+]

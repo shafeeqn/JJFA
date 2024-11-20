@@ -1,0 +1,662 @@
+[
+     {
+      "name": "BAHJATHUL HUDA DARS, KODANGAD",
+      "place": "KODANGAD",
+      "zone": "KONDOTTY"
+     },
+     {
+      "name": "NAVAVIYYA DARS POOKOTTUCHOLA",
+      "place": "POOKOTTUCHOLA",
+      "zone": "KONDOTTY"
+     },
+     {
+      "name": "NOORUL HUDA DARS OMANOOR",
+      "place": "PALLIPPURAYA",
+      "zone": "KONDOTTY"
+     },
+     {
+      "name": "SAUTHUSHAREEHA DARS EDAKKARA",
+      "place": "EDAKKARA",
+      "zone": "KONDOTTY"
+     },
+     {
+      "name": "IRSHADUL MUTHALLIMEEN DARS MELE KIZHISSERI",
+      "place": "KIZHISSERI",
+      "zone": "KONDOTTY"
+     },
+     {
+      "name": "HIMAYATHUL BAYAN DARS KARUVARAKUNDU ANGADI",
+      "place": "KARUVARAKUNDUANGADI",
+      "zone": "KONDOTTY"
+     },
+     {
+      "name": "DARUL HIDAYA DARS VADASSERI",
+      "place": "VADASSERI",
+      "zone": "KONDOTTY"
+     },
+     {
+      "name": "DARUL SWALATH DARS, THRIPPANACHI",
+      "place": "THRIPPANACHI",
+      "zone": "KONDOTTY"
+     },
+     {
+      "name": "THARBIYATHUL BAYAN KUTTATHI DARS KARUVARAKUNDU",
+      "place": "KARUVARAKUNDU",
+      "zone": "KONDOTTY"
+     },
+     {
+      "name": "IRSUL ANBIYA DARS THANNIKKADAVU",
+      "place": "THANNIKKADAVU",
+      "zone": "KONDOTTY"
+     },
+     {
+      "name": "JALALIYYA DARS KAVANOOR THAVARAPARAMBA",
+      "place": "THAVARAPARAMBA",
+      "zone": "KONDOTTY"
+     },
+     {
+      "name": "AL MASALIH DARS PULLUR",
+      "place": "PULLUR",
+      "zone": "KONDOTTY"
+     },
+     {
+      "name": "SIRAJUL ULAMA DARS MAMPUZHA",
+      "place": "MAMPUZHA",
+      "zone": "KONDOTTY"
+     },
+     {
+      "name": "THARBIYATHUL MUTHALLIMEEN THARAYITTAL",
+      "place": "THARAYITTAL",
+      "zone": "KONDOTTY"
+     },
+     {
+      "name": "MASLAKUL ANWAR CHEEKODE",
+      "place": "CHEEKODE",
+      "zone": "KONDOTTY"
+     },
+     {
+      "name": "HIDAYATHU THWOLABA DARAS THRIKKALANGOD",
+      "place": "THRIKKALANGOD",
+      "zone": "KONDOTTY"
+     },
+     {
+      "name": "AL BURHAN CHENGARA",
+      "place": "CHENGARA",
+      "zone": "KONDOTTY"
+     },
+     {
+      "name": "MAHADANUL HUDHA DARS NENMINI",
+      "place": "NENMINI",
+      "zone": "KONDOTTY"
+     },
+     {
+      "name": "IYNUL MARIF PONNIAKURUSSI",
+      "place": "PONNIAKURUSSI",
+      "zone": "PERINTHALMANNA"
+     },
+     {
+      "name": "MARKAZUL ULAMA DARS VALANCHERY",
+      "place": "VALANCHERY",
+      "zone": "PERINTHALMANNA"
+     },
+     {
+      "name": "MAJLISUL IRFAN DARS ACHIPRA",
+      "place": "ACHIPRA",
+      "zone": "PERINTHALMANNA"
+     },
+     {
+      "name": "MAMBA'UL HUDA DARS, EARKKARA",
+      "place": "KADAMBUZHA, EARKKARA",
+      "zone": "PERINTHALMANNA"
+     },
+     {
+      "name": "BUSTHANU TWALIBEEN DARS AMMINIKKAD",
+      "place": "AMMINIKKAD",
+      "zone": "PERINTHALMANNA"
+     },
+     {
+      "name": "BADRIYYA DARS, KAPPU",
+      "place": "KAPPU",
+      "zone": "PERINTHALMANNA"
+     },
+     {
+      "name": "ANWARUL HUDA DARS MEENARKUZHI",
+      "place": "MEENARKUZHI",
+      "zone": "PERINTHALMANNA"
+     },
+     {
+      "name": "JAMALIYYA DARS VATTAPPARAMBU, KARINKALLATHANI",
+      "place": "VATTAPPARAMBU, KARINKALLATHANI",
+      "zone": "PERINTHALMANNA"
+     },
+     {
+      "name": "MISHKATHUL HUDA DARS EDAYATTUR",
+      "place": "EDAYATTUR",
+      "zone": "PERINTHALMANNA"
+     },
+     {
+      "name": "RABBANIYYA DARS VATTALLUR",
+      "place": "VATTALUR",
+      "zone": "PERINTHALMANNA"
+     },
+     {
+      "name": "RAHMANIYYA JUMUA MASJID ANAMANGAD",
+      "place": "ANAMANGAD",
+      "zone": "PERINTHALMANNA"
+     },
+     {
+      "name": "TTS NELLIKKUNNU DARS, NELLIKKUNNU",
+      "place": "NELLIKKUNNU",
+      "zone": "PERINTHALMANNA"
+     },
+     {
+      "name": "MA'DINUL ULOOM DARS KIZHAKKUMPADAM",
+      "place": "KIZHAKKUMPADAM",
+      "zone": "PERINTHALMANNA"
+     },
+     {
+      "name": "MARKAZUL ULAMA DARS PALATHINGAL",
+      "place": "PALATHINGAL",
+      "zone": "TIRURANGADI"
+     },
+     {
+      "name": "BAYANUL ULOOM DARS MUTTICHIRA",
+      "place": "MUTTICHIRA, THALAPPARA",
+      "zone": "TIRURANGADI"
+     },
+     {
+      "name": "BAHJATHUL HUDA DARAS EDAKKULAM",
+      "place": "EDAKKULAM,THIRUNAVAYA",
+      "zone": "TIRURANGADI"
+     },
+     {
+      "name": "SUBULUSSALAM DARS KOZHIPPURAM",
+      "place": "KOZHIPPURAM",
+      "zone": "TIRURANGADI"
+     },
+     {
+      "name": "AL EAQALU DARS CHEMBRA",
+      "place": "TIRUR CHEMBRA",
+      "zone": "TIRURANGADI"
+     },
+     {
+      "name": "BAHJATHUL HIKAM DARS KARATHUR",
+      "place": "KARATHUR, TIRUR",
+      "zone": "TIRURANGADI"
+     },
+     {
+      "name": "MANSHAUL ULOOM DARS PUTHUPPARAMBA",
+      "place": "PUTHUPPARAMBA",
+      "zone": "TIRURANGADI"
+     },
+     {
+      "name": "JAMALULLAIL DARS AYYAYA",
+      "place": "AYYAYA",
+      "zone": "TIRURANGADI"
+     },
+     {
+      "name": "DARUL ULOOM DARS KORAD",
+      "place": "KORAD",
+      "zone": "TIRURANGADI"
+     },
+     {
+      "name": "MARKAZUL ULAMA DARS APLA",
+      "place": "POOKKIPARAMBA APLA",
+      "zone": "TIRURANGADI"
+     },
+     {
+      "name": "BAYANUL ULOOM DARS KODINHI",
+      "place": "KODINHI",
+      "zone": "TIRURANGADI"
+     },
+     {
+      "name": "BAYANUL ULOOM DARS PUTHANTHERU",
+      "place": "PUTHANTHERU",
+      "zone": "TIRURANGADI"
+     },
+     {
+      "name": "BAYANUL ULOOM DARS OMACHAPPUZHA",
+      "place": "OMACHAPPUZHA",
+      "zone": "TIRURANGADI"
+     },
+     {
+      "name": "TTSS KUNDUKULAM",
+      "place": "KUNDUKULAM",
+      "zone": "TIRURANGADI"
+     },
+     {
+      "name": "THAMREENU THWALABA ANANTHAVOOR",
+      "place": "ANANTHAVOOR",
+      "zone": "TIRURANGADI"
+     },
+     {
+      "name": "MARKAZUL ULAMA DARS PANAMBRA",
+      "place": "PANAMBRA, CHELARI",
+      "zone": "TIRURANGADI"
+     },
+     {
+      "name": "ATHAVANAD DARS",
+      "place": "ATHAVANAD",
+      "zone": "TIRURANGADI"
+     },
+     {
+      "name": "MANSHAUL ULOOM KUNNATHPARAMB",
+      "place": "KUNNATHPARAMB",
+      "zone": "TIRURANGADI"
+     },
+     {
+      "name": "VASILIYAH DARS, KUNDUKULAM",
+      "place": "MMQJ KUNDUKULAM",
+      "zone": "TIRURANGADI"
+     },
+     {
+      "name": "DARUL HIDAYA DARS ULLANAM",
+      "place": "ULLANAM MUNDIYANKAVU",
+      "zone": "TIRURANGADI"
+     },
+     {
+      "name": "MUNAVVIRUL ISLAM DARS CHERUSHOLA",
+      "place": "CHERUSHOLA",
+      "zone": "TIRURANGADI"
+     },
+     {
+      "name": "NOORU THWALABA DARS EDARIKODE",
+      "place": "EDARIKODE",
+      "zone": "TIRURANGADI"
+     },
+     {
+      "name": "MARKAZUL ULAMA DARA KONOMPARA",
+      "place": "KONOMPARA",
+      "zone": "VGA"
+     },
+     {
+      "name": "ALATHURPADI DARS",
+      "place": "ALATHURPADI",
+      "zone": "VGA"
+     },
+     {
+      "name": "DARAJATHUL ULOOM DARS CHEPPYALAM",
+      "place": "CHEPPYALAM",
+      "zone": "VGA"
+     },
+     {
+      "name": "FATH'HUNNOR DARS IRUMBUZHI",
+      "place": "IRUMBUZHI",
+      "zone": "VGA"
+     },
+     {
+      "name": "BAYANUL ULOOM DARS PADAPPARAMB",
+      "place": "PADAPPARAMB",
+      "zone": "VGA"
+     },
+     {
+      "name": "MARKAZUL ULAMA DARS MUTHIRIPARAMBA",
+      "place": "MUTHIRIPARAMBA",
+      "zone": "VGA"
+     },
+     {
+      "name": "ISHAATHUSUNNA DARS PULLARA",
+      "place": "PULLARA",
+      "zone": "VGA"
+     },
+     {
+      "name": "SIRAJUL ULAMA POOKALATHOOR",
+      "place": "POOKALATHOOR",
+      "zone": "VGA"
+     },
+     {
+      "name": "MANSHAUL ULOOM DARS PATTARKADAVU",
+      "place": "PATTARKADAVU",
+      "zone": "VGA"
+     },
+     {
+      "name": "JAWHARATHUL ULOOM VALAMANGALAM",
+      "place": "VALAMANGALAM",
+      "zone": "VGA"
+     },
+     {
+      "name": "THODUKUTHUPARAMB DARS",
+      "place": "THODUKUTHUPARAMB",
+      "zone": "VGA"
+     },
+     {
+      "name": "THAMREENU THWALABA KUZHICHENA",
+      "place": "KUZHICHENA",
+      "zone": "VGA"
+     },
+     {
+      "name": "THAMREENU TWALABA MONGAM DARS ASSOCIATION",
+      "place": "MONGAM",
+      "zone": "VGA"
+     },
+     {
+      "name": "IRSHAADU THWALABA DARAS ACHANAMBALAM",
+      "place": "ACHANAMBALAM",
+      "zone": "VGA"
+     },
+     {
+      "name": "DARUL HIDAYA DARS OZHUKUR",
+      "place": "OZHUKUR",
+      "zone": "VGA"
+     },
+     {
+      "name": "MARKAZUL ULAMA DARS MORAYUR",
+      "place": "MORAYUR",
+      "zone": "VGA"
+     },
+     {
+      "name": "SHAMSUL HUDA DARS PUKAYOOR",
+      "place": "PUKAYOOR",
+      "zone": "VGA"
+     },
+     {
+      "name": "BAYANUL ULOOM ARIMBRA PAZHANGARATHODI",
+      "place": "ARIMBRA PAZHANGARATHODI",
+      "zone": "VGA"
+     },
+     {
+      "name": "BADRIYYA HIFZUL QUR'AN, MADATHIKOVVAL, NARATAH",
+      "place": "MADATHIKOVVAL",
+      "zone": "KANNUR"
+     },
+     {
+      "name": "MARKAZUL ULAMA DARS VENMANAL",
+      "place": "VENMANAL",
+      "zone": "KANNUR"
+     },
+     {
+      "name": "SWAFA DARS KUMMAYAKKADAVU",
+      "place": "KUMMAYAKKADAVU",
+      "zone": "KANNUR"
+     },
+     {
+      "name": "MARKAZUL ULAMA DARS POTHUVACHERY",
+      "place": "POTHUVACHERY",
+      "zone": "KANNUR"
+     },
+     {
+      "name": "DARUL ULOOM AL ASNAVIYYA, CHERUKUNN",
+      "place": "CHERUKUNNU",
+      "zone": "KANNUR"
+     },
+     {
+      "name": "HIDAYATHU THWALABA DARS NOONHERI",
+      "place": "NOONHERI",
+      "zone": "KANNUR"
+     },
+     {
+      "name": "HALEEMATHU SA'ADIYYA, MATHAMANGALAM",
+      "place": "MATHAMANGALAM",
+      "zone": "KANNUR"
+     },
+     {
+      "name": "DA'WATHUL ISLAM DARS PALOTTUPALLY",
+      "place": "PALOTTUPALLY",
+      "zone": "KANNUR"
+     },
+     {
+      "name": "NIBRASU THWALABA DARS KAVVAYI",
+      "place": "VADIPPURAM",
+      "zone": "KANNUR"
+     },
+     {
+      "name": "MAMBAUL HIDAYA DARS VELIYAMBRA",
+      "place": "Veliyambra",
+      "zone": "KANNUR"
+     },
+     {
+      "name": "IMADUDDEEN DARS PAPPINISSERI WEST",
+      "place": "PAPPINISSERY WEST",
+      "zone": "KANNUR"
+     },
+     {
+      "name": "MANARUL HUDA DARS ELAYAVOOR VARAM",
+      "place": "VARAM",
+      "zone": "KANNUR"
+     },
+     {
+      "name": "IZZATHUL ISLAM DARS PUTHIYANGADI",
+      "place": "PUTHIYANGADI",
+      "zone": "KANNUR"
+     },
+     {
+      "name": "Markazul ulama dars, PUZHAKKARA IRITTY",
+      "place": "PUZHAKKARA, IRITTY",
+      "zone": "KANNUR"
+     },
+     {
+      "name": "SHARAFUL ISLAM DA'WA DARS PANNIYANKANDI",
+      "place": "PANNIYANKANDI, KAMBIL",
+      "zone": "KANNUR"
+     },
+     {
+      "name": "JUMA MASJID DARS MANGADAVU",
+      "place": "MANGADAVU",
+      "zone": "KANNUR"
+     },
+     {
+      "name": "MAMBAUL HIDAYA DARS PADANNOTT",
+      "place": "THAZHE PADANNOTT",
+      "zone": "KANNUR"
+     },
+     {
+      "name": "MADHEENATHUNNOOR DARS PALLIPOYIL",
+      "place": "PALLIPPOYIL",
+      "zone": "KANNUR"
+     },
+     {
+      "name": "IHSAN DARS PERUMUGHAM",
+      "place": "PERUMUGHAM",
+      "zone": "KOZHIKODE"
+     },
+     {
+      "name": "AL MAHLARATHUL JALALIYYA DARS VILLIAPPALLI",
+      "place": "VILLIAPPALLI",
+      "zone": "KOZHIKODE"
+     },
+     {
+      "name": "DARUL HIDAYA DARS ORKKATTERI",
+      "place": "ORKKATTERI",
+      "zone": "KOZHIKODE"
+     },
+     {
+      "name": "MAKHDOOMIA MARKAZUL ULAMA DARS KUNHIPALLI",
+      "place": "KUNHIPPALLI",
+      "zone": "KOZHIKODE"
+     },
+     {
+      "name": "AL AQSA DARS, CHALIYAM",
+      "place": "CHALIYAM",
+      "zone": "KOZHIKODE"
+     },
+     {
+      "name": "MANBAU'SSA'ADA DARS MANIYAMBALAM",
+      "place": "MANIYAMBALAM",
+      "zone": "KOZHIKODE"
+     },
+     {
+      "name": "DARUL HIDAYA DARS KALARANTHIRI",
+      "place": "KALARANTHIRI",
+      "zone": "KOZHIKODE"
+     },
+     {
+      "name": "NOORUL HUDA DARS CHERUMOTH",
+      "place": "CHERUMOTH",
+      "zone": "KOZHIKODE"
+     },
+     {
+      "name": "MACHAKULAM DARAS PULLALUR",
+      "place": "PULLALUR",
+      "zone": "KOZHIKODE"
+     },
+     {
+      "name": "DARUL HIDAYA DARS KOODATHAYI",
+      "place": "KOODATHAYI",
+      "zone": "KOZHIKODE"
+     },
+     {
+      "name": "BUSTHANUL HUDABA DARS ODUMBRA",
+      "place": "KALLIKKKUNNU",
+      "zone": "KOZHIKODE"
+     },
+     {
+      "name": "MA'DINUL ULOOM DARS",
+      "place": "KULAPPARAMBU",
+      "zone": "PALAKKAD"
+     },
+     {
+      "name": "KMIC DARS THEYYOTUCHIRA",
+      "place": "THEYYOTUCHIRA",
+      "zone": "PALAKKAD"
+     },
+     {
+      "name": "MAKHDOOMIYYA DARS VILATHUR",
+      "place": "VILATHUR",
+      "zone": "PALAKKAD"
+     },
+     {
+      "name": "KUMARAMPUTHUR DARS PALLIKKUNNU",
+      "place": "PALLUKKUNNU",
+      "zone": "PALAKKAD"
+     },
+     {
+      "name": "VANDUMTHARA DARAS",
+      "place": "VANDUMTHARA",
+      "zone": "PALAKKAD"
+     },
+     {
+      "name": "NTSA DARS MUNDATHPALLI",
+      "place": "ALANALLUR",
+      "zone": "PALAKKAD"
+     },
+     {
+      "name": "MARKAZUL ULAMA DARS AMAYOOR",
+      "place": "AMAYOOR",
+      "zone": "PALAKKAD"
+     },
+     {
+      "name": "KUMARAMPUTHUR DARS PALLIKKUNNU",
+      "place": "PUTTANIKKAD",
+      "zone": "PALAKKAD"
+     },
+     {
+      "name": "MISWBAHUL HUDA DARS MOLOOR",
+      "place": "MOLOOR",
+      "zone": "PALAKKAD"
+     },
+     {
+      "name": "ANSAR DARS",
+      "place": "ANSAR NAGAR",
+      "zone": "PALAKKAD"
+     },
+     {
+      "name": "AL MARJAN DARS KALLADIKKODE",
+      "place": "KALLADIKKODE",
+      "zone": "PALAKKAD"
+     },
+     {
+      "name": "MQSA KOTTOPADAM",
+      "place": "KOTTOPADAM",
+      "zone": "PALAKKAD"
+     },
+     {
+      "name": "IRSHADU THWALABA DARS CHERPULASSERY",
+      "place": "CHERPULASSERY",
+      "zone": "PALAKKAD"
+     },
+     {
+      "name": "AL AQSA DARS VELLUVAMBUZHA",
+      "place": "CHENGALEERY",
+      "zone": "PALAKKAD"
+     },
+     {
+      "name": "MADEENATHUL ILM THEKKUMMALA",
+      "place": "THEKKUMMALA",
+      "zone": "PALAKKAD"
+     },
+     {
+      "name": "NIBRASUL ULOOM",
+      "place": "MANALADI",
+      "zone": "PALAKKAD"
+     },
+     {
+      "name": "MQSA NELLAYA",
+      "place": "NELLAYA",
+      "zone": "PALAKKAD"
+     },
+     {
+      "name": "KOUKABU THULABA DARS VALLAPUZHA",
+      "place": "VALLAPUZHA",
+      "zone": "PALAKKAD"
+     },
+     {
+      "name": "KUMARAMPUTHUR DARS PALLIKKUNNU",
+      "place": "TACHANNATUKARA",
+      "zone": "PALAKKAD"
+     },
+     {
+      "name": "SABEELUSSALAM DARS KURUVATTOOR",
+      "place": "VALLAPPUZHA",
+      "zone": "PALAKKAD"
+     },
+     {
+      "name": "BAHJATHUL HIDAYA DARS WEST KODUMUNDA",
+      "place": "WEST KODUMUNDA",
+      "zone": "PALAKKAD"
+     },
+     {
+      "name": "IQRA DARS UDINUR",
+      "place": "UDINUR JUMA MASJID",
+      "zone": "KASARAGOD"
+     },
+     {
+      "name": "MISBAHUL HUDA DARS PEROOR",
+      "place": "PEROOR",
+      "zone": "KASARAGOD"
+     },
+     {
+      "name": "IRSHADU TWALABA AZEEKAL",
+      "place": "Edachakai",
+      "zone": "KASARAGOD"
+     },
+     {
+      "name": "ANWARUL ISLAM DARS ERIYAL",
+      "place": "ERIYAL",
+      "zone": "KASARAGOD"
+     },
+     {
+      "name": "NOORUL HUDA DARS AND QUR'AN ACADEMY VADAKKUMBAD",
+      "place": "Trikaripur",
+      "zone": "KASARAGOD"
+     },
+     {
+      "name": "PAYYAKKI DARS",
+      "place": "Payyaki",
+      "zone": "KASARAGOD"
+     },
+     {
+      "name": "NIBRAS DARS THANGAYAM",
+      "place": "TRIKARIPUR THAGAYAM",
+      "zone": "KASARAGOD"
+     },
+     {
+      "name": "RAHMANIYA DARS PADANE",
+      "place": "PADANE",
+      "zone": "KASARAGOD"
+     },
+     {
+      "name": "MISA DARS PARAPPALY",
+      "place": "PARAPPALLY, KANHANGAD",
+      "zone": "KASARAGOD"
+     },
+     {
+      "name": "MASWABIHUL HUDA DARS KOTTAPURAM",
+      "place": "KOTTAPPURAM",
+      "zone": "KASARAGOD"
+     },
+     {
+      "name": "MUNAWIRUL ISLAM DARS MOGRAL",
+      "place": "MORGAL, PUTHUR",
+      "zone": "KASARAGOD"
+     }
+    ]
