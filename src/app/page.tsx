@@ -9,7 +9,7 @@ function page() {
         Jamia Dars Fest
       </p>
       <p className="lg:text-lg font-black mb-5 text-center">
-2024-'25     </p>
+JAMIA JUNIOR COLLEGE ARTS FEST 2024-'25     </p>
       <div className="flex gap-2 text-xl font-semibold">
         <Link href={'/result'}  className="py-1 bg-yellow border-yellow hover:bg-yellower border-2 px-2 rounded-md ">
           Results
