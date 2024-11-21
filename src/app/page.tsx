@@ -6,7 +6,7 @@ function page() {
     <div className="w-screen h-screen flex flex-col items-center justify-center">
       <img src="/jam.jpg" className="w-96 h-96 object-cover -my-20" />
       <p className="lg:text-[72px] text-3xl font-black mb-5 text-center">
-        JAMIA JUNIOR FEST 2024-'25
+        Jamia Junior Fest '24-'25
       </p>
       <p className="lg:text-lg font-black mb-5 text-center">
 JAMIA JUNIOR COLLEGE ARTS FEST (ZONE A)     </p>
