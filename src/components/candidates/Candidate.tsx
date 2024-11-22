@@ -17,8 +17,9 @@ function debounce<T extends unknown[]>(
 interface Props {
   candidates: {
     chest: number;
+    uid: number;
     name: string;
-    dars: number;
+    college: number;
   }[];
 }
 
