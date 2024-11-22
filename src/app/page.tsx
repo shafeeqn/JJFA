@@ -4,13 +4,13 @@ import React from "react";
 function page() {
   return (
     <div className="w-screen h-screen flex flex-col items-center justify-center">
-      <img src="/jam.jpg" className="w-90 h-90 object-cover -my-30" />
+      <img src="/jam.jpg" className="w-96 h-96 object-cover -my-30" />
       <br></br>
-      <p className="lg:text-[66px] text-3xl font-black mb-5 text-center">
+      <p className="lg:text-[72px] text-3xl font-black mb-5 text-center">
         Jamia Junior Fest
       </p>
       <p className="lg:text-lg font-black mb-5 text-center">
-JAMIA JUNIOR COLLEGE ARTS FEST <br>2024-'25 (ZONE A)</br>   </p>
+JAMIA JUNIOR COLLEGE ARTS FEST '25 <br>(ZONE A)</br>   </p>
     
       <div className="flex gap-2 text-xl font-semibold">
         <Link href={'/result'}  className="py-1 bg-yellow border-yellow hover:bg-yellower border-2 px-2 rounded-md ">
