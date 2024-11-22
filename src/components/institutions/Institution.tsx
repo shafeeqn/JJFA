@@ -26,8 +26,9 @@ interface Props {
   }[];
   candidates: {
     chest: string;
+    uid: string;
     name: string;
-    dars: string;
+    college: string;
   }[];
   candidatePrograms: {
     code: string;
